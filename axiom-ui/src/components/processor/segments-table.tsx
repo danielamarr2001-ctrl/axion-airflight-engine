@@ -26,6 +26,7 @@ function formatDate(dateStr: string): string {
 
 export function SegmentsTable({ segments }: SegmentsTableProps) {
   return (
+    <div className="overflow-x-auto">
     <Table>
       <TableHeader>
         <TableRow>
@@ -70,5 +71,6 @@ export function SegmentsTable({ segments }: SegmentsTableProps) {
         })}
       </TableBody>
     </Table>
+    </div>
   );
 }

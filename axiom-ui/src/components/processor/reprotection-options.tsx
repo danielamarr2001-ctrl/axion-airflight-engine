@@ -9,9 +9,9 @@ interface ReprotectionOptionsProps {
 }
 
 function gridColsClass(count: number): string {
-  if (count === 3) return "grid-cols-3";
-  if (count <= 2) return "grid-cols-2";
-  return "grid-cols-2 xl:grid-cols-4";
+  if (count === 3) return "grid-cols-1 sm:grid-cols-3";
+  if (count <= 2) return "grid-cols-1 sm:grid-cols-2";
+  return "grid-cols-1 sm:grid-cols-2 xl:grid-cols-4";
 }
 
 export function ReprotectionOptions({
