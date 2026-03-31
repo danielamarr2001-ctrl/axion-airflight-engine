@@ -114,6 +114,10 @@ Deferred to future release. Tracked but not in current roadmap.
 | API-04 | Phase 1 | Pending |
 | API-05 | Phase 1 | Pending |
 | API-06 | Phase 1 | Pending |
+| UI-01 | Phase 1 | Pending |
+| UI-02 | Phase 1 | Pending |
+| UI-03 | Phase 1 | Pending |
+| UI-06 | Phase 1 | Pending |
 | PNR-01 | Phase 2 | Pending |
 | PNR-02 | Phase 2 | Pending |
 | PNR-03 | Phase 2 | Pending |
@@ -126,24 +130,20 @@ Deferred to future release. Tracked but not in current roadmap.
 | DEC-05 | Phase 2 | Pending |
 | DEC-06 | Phase 2 | Pending |
 | DEC-07 | Phase 2 | Pending |
-| UI-01 | Phase 3 | Pending |
-| UI-02 | Phase 3 | Pending |
-| UI-03 | Phase 3 | Pending |
-| UI-04 | Phase 3 | Pending |
-| UI-05 | Phase 3 | Pending |
-| UI-06 | Phase 3 | Pending |
-| UI-07 | Phase 3 | Pending |
+| UI-04 | Phase 2 | Pending |
+| UI-05 | Phase 2 | Pending |
 | KPI-01 | Phase 3 | Pending |
 | KPI-02 | Phase 3 | Pending |
 | KPI-03 | Phase 3 | Pending |
 | KPI-04 | Phase 3 | Pending |
 | KPI-05 | Phase 3 | Pending |
+| UI-07 | Phase 3 | Pending |
 
 **Coverage:**
-- v1 requirements: 30 total
-- Mapped to phases: 30
-- Unmapped: 0 ✓
+- v1 requirements: 35 total
+- Mapped to phases: 35
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-30*
-*Last updated: 2026-03-30 after initial definition*
+*Last updated: 2026-03-30 after roadmap creation*
