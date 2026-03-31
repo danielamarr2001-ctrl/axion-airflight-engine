@@ -13,7 +13,7 @@ AXIOM AirFlight Engine goes from existing FastAPI decision engine to investor-de
 Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 1: Foundation + Backend + App Shell** - Database, seed data, API endpoints, Next.js scaffold with dark theme and navigation
-- [ ] **Phase 2: Core Workflow** - PNR lookup, rule evaluation, reprotection options, decision recording with full UI flows
+- [x] **Phase 2: Core Workflow** - PNR lookup, rule evaluation, reprotection options, decision recording with full UI flows
 - [ ] **Phase 3: KPI Dashboard + Demo Polish** - Operational metrics dashboard, investor-demo quality brand polish
 
 ## Phase Details
@@ -76,5 +76,5 @@ Phases execute in numeric order: 1 → 2 → 3
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Foundation + Backend + App Shell | 3/3 | Complete | 2026-03-30 |
-| 2. Core Workflow | 0/2 | Not started | - |
+| 2. Core Workflow | 2/2 | Complete | 2026-03-30 |
 | 3. KPI Dashboard + Demo Polish | 0/2 | Not started | - |
