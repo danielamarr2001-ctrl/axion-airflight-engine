@@ -1,0 +1,8 @@
+[project]
+name = "axiom-api"
+version = "0.2.0"
+requires-python = ">=3.12"
+
+[tool.vercel.app]
+module = "axiom.api.main"
+variable = "app"

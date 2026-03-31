@@ -41,9 +41,13 @@ axiom-ui/node_modules/
 .env.local
 .env.*.local
 
+# MCP config (contains token references)
+.mcp.json
+
 # Old legacy artifacts
 axiom/logs/decision_log.json
 axiom/rule_platform/rules.csv
 
 # Flutter (deprecated - replaced by axiom-ui)
 axiom_dashboard/
+.vercel

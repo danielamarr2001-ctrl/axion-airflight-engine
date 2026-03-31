@@ -1,0 +1,666 @@
+- generic [ref=e8]:
+  - generic [ref=e12]:
+    - generic [ref=e13]:
+      - complementary [ref=e14]:
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - link [ref=e17] [cursor=pointer]:
+              - /url: /
+              - img [ref=e19]
+            - button "Danielamarr2001@gmail.com's Account" [ref=e24] [cursor=pointer]:
+              - paragraph [ref=e25]: Danielamarr2001@gmail.com's Account
+              - img [ref=e27]
+          - navigation [ref=e30]:
+            - generic [ref=e34]:
+              - button "Quick search..." [ref=e36] [cursor=pointer]:
+                - generic [ref=e37]:
+                  - img [ref=e38]
+                  - generic [ref=e40]: Quick search...
+                  - generic [ref=e41]: ⌘K
+              - generic [ref=e736]:
+                - link "Back to Domains" [ref=e739] [cursor=pointer]:
+                  - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/registrar/domains
+                  - generic [ref=e740]:
+                    - img [ref=e741]
+                    - generic [ref=e743]: Back to Domains
+                - list [ref=e746]:
+                  - listitem [ref=e747]:
+                    - link "Overview" [ref=e748] [cursor=pointer]:
+                      - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/
+                      - generic [ref=e749]:
+                        - img [ref=e750]
+                        - generic [ref=e753]: Overview
+                  - listitem [ref=e754]:
+                    - button "Recents" [ref=e755] [cursor=pointer]:
+                      - generic [ref=e756]:
+                        - img [ref=e757]
+                        - generic [ref=e760]: Recents
+                        - img [ref=e761]
+                    - list [ref=e763]:
+                      - listitem [ref=e765]:
+                        - link "Account API tokens Manage account" [ref=e766] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/api-tokens
+                          - generic [ref=e767]:
+                            - generic [ref=e768]: Account API tokens
+                            - generic [ref=e770]: Manage account
+                        - button "Pin" [ref=e772] [cursor=pointer]:
+                          - generic [ref=e773]:
+                            - img [ref=e774]
+                            - img [ref=e779]
+                  - listitem [ref=e781]:
+                    - button "AI Crawl Control" [ref=e782] [cursor=pointer]:
+                      - generic [ref=e783]:
+                        - img [ref=e784]
+                        - generic [ref=e787]: AI Crawl Control
+                        - img [ref=e788]
+                    - list [ref=e790]:
+                      - listitem [ref=e792]:
+                        - link "Overview" [ref=e793] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/ai/overview
+                          - generic [ref=e794]: Overview
+                      - listitem [ref=e795]:
+                        - link "Crawlers" [ref=e796] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/ai/bots
+                          - generic [ref=e797]: Crawlers
+                      - listitem [ref=e798]:
+                        - link "Metrics" [ref=e799] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/ai/metrics
+                          - generic [ref=e800]: Metrics
+                      - listitem [ref=e801]:
+                        - link "Robots.txt" [ref=e802] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/ai/robots
+                          - generic [ref=e803]: Robots.txt
+                  - listitem [ref=e804]:
+                    - button "Log Explorer" [ref=e805] [cursor=pointer]:
+                      - generic [ref=e806]:
+                        - img [ref=e807]
+                        - generic [ref=e810]: Log Explorer
+                        - img [ref=e811]
+                    - list [ref=e813]:
+                      - listitem [ref=e815]:
+                        - link "Log search" [ref=e816] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/log-explorer/log-search
+                          - generic [ref=e817]: Log search
+                  - listitem [ref=e818]:
+                    - button "Analytics & logs" [ref=e819] [cursor=pointer]:
+                      - generic [ref=e820]:
+                        - img [ref=e821]
+                        - generic [ref=e824]: Analytics & logs
+                        - img [ref=e825]
+                    - list [ref=e827]:
+                      - listitem [ref=e829]:
+                        - link "HTTP Traffic" [ref=e830] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/analytics/traffic
+                          - generic [ref=e831]: HTTP Traffic
+                      - listitem [ref=e832]:
+                        - link "Performance" [ref=e833] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/analytics/performance
+                          - generic [ref=e834]: Performance
+                      - listitem [ref=e835]:
+                        - link "Workers" [ref=e836] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/analytics/workers
+                          - generic [ref=e837]: Workers
+                  - listitem [ref=e838]:
+                    - button "DNS" [ref=e839] [cursor=pointer]:
+                      - generic [ref=e840]:
+                        - img [ref=e841]
+                        - generic [ref=e843]: DNS
+                        - img [ref=e844]
+                    - list [ref=e846]:
+                      - listitem [ref=e848]:
+                        - link "Records" [ref=e849] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/dns/records
+                          - generic [ref=e850]: Records
+                      - listitem [ref=e851]:
+                        - link "Analytics" [ref=e852] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/dns/analytics
+                          - generic [ref=e853]: Analytics
+                      - listitem [ref=e854]:
+                        - link "Settings" [ref=e855] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/dns/settings
+                          - generic [ref=e856]: Settings
+                  - listitem [ref=e857]:
+                    - button "Email" [ref=e858] [cursor=pointer]:
+                      - generic [ref=e859]:
+                        - img [ref=e860]
+                        - generic [ref=e864]: Email
+                        - img [ref=e865]
+                    - list [ref=e867]:
+                      - listitem [ref=e869]:
+                        - link "Email Routing" [ref=e870] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/email/routing
+                          - generic [ref=e871]: Email Routing
+                      - listitem [ref=e872]:
+                        - link "DMARC Management" [ref=e873] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/email/dmarc-management
+                          - generic [ref=e874]: DMARC Management
+                      - listitem [ref=e875]:
+                        - link "Email Security" [ref=e876] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/email/security
+                          - generic [ref=e877]: Email Security
+                  - listitem [ref=e878]:
+                    - button "SSL/TLS" [ref=e879] [cursor=pointer]:
+                      - generic [ref=e880]:
+                        - img [ref=e881]
+                        - generic [ref=e884]: SSL/TLS
+                        - img [ref=e885]
+                    - list [ref=e887]:
+                      - listitem [ref=e889]:
+                        - link "Overview" [ref=e890] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/ssl-tls
+                          - generic [ref=e891]: Overview
+                      - listitem [ref=e892]:
+                        - link "Edge Certificates" [ref=e893] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/ssl-tls/edge-certificates
+                          - generic [ref=e894]: Edge Certificates
+                      - listitem [ref=e895]:
+                        - link "Client Certificates" [ref=e896] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/ssl-tls/client-certificates
+                          - generic [ref=e897]: Client Certificates
+                      - listitem [ref=e898]:
+                        - link "Origin Server" [ref=e899] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/ssl-tls/origin
+                          - generic [ref=e900]: Origin Server
+                      - listitem [ref=e901]:
+                        - link "Custom Hostnames" [ref=e902] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/ssl-tls/custom-hostnames
+                          - generic [ref=e903]: Custom Hostnames
+                  - listitem [ref=e904]:
+                    - button "Security" [ref=e905] [cursor=pointer]:
+                      - generic [ref=e906]:
+                        - img [ref=e907]
+                        - generic [ref=e909]: Security
+                        - img [ref=e910]
+                    - list [ref=e912]:
+                      - listitem [ref=e914]:
+                        - link "Overview" [ref=e915] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/security/overview
+                          - generic [ref=e916]: Overview
+                      - listitem [ref=e917]:
+                        - link "Analytics" [ref=e918] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/security/analytics
+                          - generic [ref=e919]: Analytics
+                      - listitem [ref=e920]:
+                        - link "Web assets" [ref=e921] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/security/web-assets
+                          - generic [ref=e922]: Web assets
+                      - listitem [ref=e923]:
+                        - link "Security rules" [ref=e924] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/security/security-rules
+                          - generic [ref=e925]: Security rules
+                      - listitem [ref=e926]:
+                        - link "Settings" [ref=e927] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/security/settings
+                          - generic [ref=e928]: Settings
+                  - listitem [ref=e929]:
+                    - link "Access" [ref=e930] [cursor=pointer]:
+                      - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/access
+                      - generic [ref=e931]:
+                        - img [ref=e932]
+                        - generic [ref=e935]: Access
+                  - listitem [ref=e936]:
+                    - button "Speed" [ref=e937] [cursor=pointer]:
+                      - generic [ref=e938]:
+                        - img [ref=e939]
+                        - generic [ref=e941]: Speed
+                        - img [ref=e942]
+                    - list [ref=e944]:
+                      - listitem [ref=e946]:
+                        - link "Observatory Beta" [ref=e947] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/speed
+                          - generic [ref=e948]: Observatory
+                          - generic [ref=e950]: Beta
+                      - listitem [ref=e951]:
+                        - link "Synthetic monitoring Beta" [ref=e952] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/speed/test
+                          - generic [ref=e953]: Synthetic monitoring
+                          - generic [ref=e955]: Beta
+                      - listitem [ref=e956]:
+                        - link "Settings" [ref=e957] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/speed/optimization
+                          - generic [ref=e958]: Settings
+                      - listitem [ref=e959]:
+                        - link "Smart Shield" [ref=e960] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/speed/smart-shield
+                          - generic [ref=e961]: Smart Shield
+                  - listitem [ref=e962]:
+                    - button "Caching" [ref=e963] [cursor=pointer]:
+                      - generic [ref=e964]:
+                        - img [ref=e965]
+                        - generic [ref=e970]: Caching
+                        - img [ref=e971]
+                    - list [ref=e973]:
+                      - listitem [ref=e975]:
+                        - link "Overview" [ref=e976] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/caching
+                          - generic [ref=e977]: Overview
+                      - listitem [ref=e978]:
+                        - link "Configuration" [ref=e979] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/caching/configuration
+                          - generic [ref=e980]: Configuration
+                      - listitem [ref=e981]:
+                        - link "Cache Rules" [ref=e982] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/caching/cache-rules
+                          - generic [ref=e983]: Cache Rules
+                      - listitem [ref=e984]:
+                        - link "Tiered Cache" [ref=e985] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/caching/tiered-cache
+                          - generic [ref=e986]: Tiered Cache
+                      - listitem [ref=e987]:
+                        - link "Cache Reserve" [ref=e988] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/caching/cache-reserve
+                          - generic [ref=e989]: Cache Reserve
+                  - listitem [ref=e990]:
+                    - link "Workers Routes" [ref=e991] [cursor=pointer]:
+                      - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/workers
+                      - generic [ref=e992]:
+                        - img [ref=e993]
+                        - generic [ref=e997]: Workers Routes
+                  - listitem [ref=e998]:
+                    - button "Rules" [ref=e999] [cursor=pointer]:
+                      - generic [ref=e1000]:
+                        - img [ref=e1001]
+                        - generic [ref=e1004]: Rules
+                        - img [ref=e1005]
+                    - list [ref=e1007]:
+                      - listitem [ref=e1009]:
+                        - link "Overview" [ref=e1010] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/rules/overview
+                          - generic [ref=e1011]: Overview
+                      - listitem [ref=e1012]:
+                        - link "Snippets" [ref=e1013] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/rules/snippets
+                          - generic [ref=e1014]: Snippets
+                      - listitem [ref=e1015]:
+                        - link "Cloud Connector Beta" [ref=e1016] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/rules/cloud-connector
+                          - generic [ref=e1017]: Cloud Connector
+                          - generic [ref=e1019]: Beta
+                      - listitem [ref=e1020]:
+                        - link "Trace Beta" [ref=e1021] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/rules/trace/search
+                          - generic [ref=e1022]: Trace
+                          - generic [ref=e1024]: Beta
+                      - listitem [ref=e1025]:
+                        - link "Page Rules" [ref=e1026] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/rules/page-rules
+                          - generic [ref=e1027]: Page Rules
+                      - listitem [ref=e1028]:
+                        - link "Settings" [ref=e1029] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/rules/settings
+                          - generic [ref=e1030]: Settings
+                  - listitem [ref=e1031]:
+                    - link "Error Pages New" [ref=e1032] [cursor=pointer]:
+                      - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/error-pages
+                      - generic [ref=e1033]:
+                        - img [ref=e1034]
+                        - generic [ref=e1037]: Error Pages
+                        - generic [ref=e1039]: New
+                  - listitem [ref=e1040]:
+                    - link "Network" [ref=e1041] [cursor=pointer]:
+                      - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/network
+                      - generic [ref=e1042]:
+                        - img [ref=e1043]
+                        - generic [ref=e1046]: Network
+                  - listitem [ref=e1047]:
+                    - button "Traffic" [ref=e1048] [cursor=pointer]:
+                      - generic [ref=e1049]:
+                        - img [ref=e1050]
+                        - generic [ref=e1052]: Traffic
+                        - img [ref=e1053]
+                    - list [ref=e1055]:
+                      - listitem [ref=e1057]:
+                        - link "Argo Smart Routing" [ref=e1058] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/traffic
+                          - generic [ref=e1059]: Argo Smart Routing
+                      - listitem [ref=e1060]:
+                        - link "Load Balancing" [ref=e1061] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/traffic/load-balancing
+                          - generic [ref=e1062]: Load Balancing
+                      - listitem [ref=e1063]:
+                        - link "Load Balancing Analytics" [ref=e1064] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/traffic/load-balancing-analytics
+                          - generic [ref=e1065]: Load Balancing Analytics
+                      - listitem [ref=e1066]:
+                        - link "Health Checks" [ref=e1067] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/traffic/health-checks
+                          - generic [ref=e1068]: Health Checks
+                      - listitem [ref=e1069]:
+                        - link "Waiting Room" [ref=e1070] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/traffic/waiting-rooms
+                          - generic [ref=e1071]: Waiting Room
+                  - listitem [ref=e1072]:
+                    - link "Web3" [ref=e1073] [cursor=pointer]:
+                      - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/axiomengine.co/web3
+                      - generic [ref=e1074]:
+                        - img [ref=e1075]
+                        - generic [ref=e1078]: Web3
+                  - listitem [ref=e1079]
+                  - listitem [ref=e1081]:
+                    - button "Manage account" [ref=e1082] [cursor=pointer]:
+                      - generic [ref=e1083]:
+                        - img [ref=e1084]
+                        - generic [ref=e1087]: Manage account
+                        - img [ref=e1088]
+                    - list [ref=e1090]:
+                      - listitem [ref=e1092]:
+                        - link "Members" [ref=e1093] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/members
+                          - generic [ref=e1094]: Members
+                      - listitem [ref=e1095]:
+                        - link "Billing" [ref=e1096] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/billing
+                          - generic [ref=e1097]: Billing
+                      - listitem [ref=e1098]:
+                        - link "Account API tokens" [ref=e1099] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/api-tokens
+                          - generic [ref=e1100]: Account API tokens
+                      - listitem [ref=e1101]:
+                        - link "Audit logs" [ref=e1102] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/audit-log
+                          - generic [ref=e1103]: Audit logs
+                      - listitem [ref=e1104]:
+                        - link "Notifications" [ref=e1105] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/notifications
+                          - generic [ref=e1106]: Notifications
+                      - listitem [ref=e1107]:
+                        - link "Blocked content" [ref=e1108] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/blocked-content
+                          - generic [ref=e1109]: Blocked content
+                      - listitem [ref=e1110]:
+                        - link "Abuse reports Beta" [ref=e1111] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/abuse-reports
+                          - generic [ref=e1112]: Abuse reports
+                          - generic [ref=e1114]: Beta
+                      - listitem [ref=e1115]:
+                        - link "Carbon Impact Report" [ref=e1116] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/carbon
+                          - generic [ref=e1117]: Carbon Impact Report
+                      - listitem [ref=e1118]:
+                        - link "Configurations" [ref=e1119] [cursor=pointer]:
+                          - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/configurations
+                          - generic [ref=e1120]: Configurations
+        - button "Collapse sidebar" [expanded] [ref=e509] [cursor=pointer]:
+          - img
+      - generic [ref=e510]:
+        - banner [ref=e511]:
+          - generic [ref=e1121]:
+            - button "axiomengine.co" [ref=e1123] [cursor=pointer]:
+              - generic [ref=e1124]: axiomengine.co
+              - img [ref=e1125]
+            - button "Star domain" [ref=e1128] [cursor=pointer]:
+              - img "Star domain" [ref=e1129]
+            - button "Free" [ref=e1132] [cursor=pointer]
+          - generic [ref=e512]:
+            - button "Ask AI" [ref=e513] [cursor=pointer]:
+              - img [ref=e514]
+              - generic [ref=e516]: Ask AI
+            - button "Support" [ref=e517] [cursor=pointer]:
+              - img [ref=e518]
+              - generic [ref=e520]: Support
+            - button "User menu" [ref=e521] [cursor=pointer]:
+              - img [ref=e522]
+        - main [ref=e1133]:
+          - generic [ref=e1135]:
+            - heading "Review your DNS records" [level=1] [ref=e1139]
+            - paragraph
+            - generic [ref=e1140]:
+              - paragraph [ref=e1141]: "Records we found:"
+              - paragraph [ref=e1142]:
+                - paragraph [ref=e1144]:
+                  - strong [ref=e1145]: "3"
+                  - text: A
+            - generic [ref=e1147]:
+              - img [ref=e1148]
+              - paragraph [ref=e1151]: Our scan may have missed uncommon records or custom subdomains. Compare the list below to your current DNS provider (most likely your registrar) and add any missing records. Pay close attention to all records on the zone apex, records of the type A, AAAA, and CNAME and records needed for email like MX, SPF, DMARC, DKIM, and MTA-STS.
+            - generic [ref=e1152]:
+              - img [ref=e1153]
+              - paragraph [ref=e1158]:
+                - text: To receive email at @
+                - strong [ref=e1159]: axiomengine.co
+                - text: addresses, add a mail exchange (MX) record.
+              - img [ref=e1161]
+            - generic [ref=e1163]:
+              - generic [ref=e1165]:
+                - generic [ref=e1166]:
+                  - heading "Your traffic is almost ready to proxy" [level=3] [ref=e1167]
+                  - button "How proxying works" [ref=e1169] [cursor=pointer]:
+                    - img [ref=e1170]
+                    - generic [ref=e1173]: How proxying works
+                - paragraph [ref=e1174]: Your DNS records tell Cloudflare where your web content is hosted, so we can hide the origin and proxy your web traffic.
+                - paragraph [ref=e1180]:
+                  - paragraph [ref=e1182]:
+                    - strong [ref=e1183]: "Proxied:"
+                    - text: HTTP traffic goes through the Cloudflare network. Required for services like caching, smart routing, and Web Application Firewall.
+                - paragraph [ref=e1189]:
+                  - paragraph [ref=e1191]:
+                    - strong [ref=e1192]: "DNS only:"
+                    - text: HTTP traffic bypasses Cloudflare and goes directly to the origin, but DNS resolution still benefits from our fast and secure network. A gray cloud means proxying is off, no cloud means the record is not eligible for proxying.
+              - generic [ref=e1194]:
+                - generic [ref=e1195]:
+                  - heading "DNS management for axiomengine.co About DNS records" [level=2] [ref=e1197]:
+                    - generic [ref=e1198]:
+                      - text: DNS management for
+                      - generic [ref=e1199]: axiomengine.co
+                    - button "About DNS records" [ref=e1201] [cursor=pointer]:
+                      - img [ref=e1202]
+                      - generic [ref=e1205]: About DNS records
+                  - generic [ref=e1206]:
+                    - generic [ref=e1207]:
+                      - generic [ref=e1208]:
+                        - generic [ref=e1209]: "DNS Setup:"
+                        - generic [ref=e1210]: Full
+                      - button [ref=e1212] [cursor=pointer]:
+                        - img [ref=e1213]
+                    - button "Import DNS Records" [ref=e1216] [cursor=pointer]:
+                      - generic [ref=e1217]:
+                        - generic [ref=e1218]: Import DNS Records
+                        - img [ref=e1219]
+                - generic [ref=e1221]:
+                  - generic [ref=e1224]:
+                    - generic [ref=e1226]:
+                      - generic [ref=e1227]:
+                        - generic [ref=e1228]: Search DNS Records
+                        - generic [ref=e1229]:
+                          - img [ref=e1231]
+                          - textbox "Search DNS Records" [ref=e1233]
+                      - button "Search" [ref=e1234] [cursor=pointer]:
+                        - generic [ref=e1235]: Search
+                    - button "Add record" [ref=e1236] [cursor=pointer]:
+                      - img [ref=e1237]
+                      - generic [ref=e1239]: Add record
+                  - status [ref=e1240]: Your search yielded 3 results
+                  - table [ref=e1242] [cursor=pointer]:
+                    - rowgroup [ref=e1243]:
+                      - row "Type caret-right Name Content Proxy status TTL Actions" [ref=e1244]:
+                        - columnheader [ref=e1245]:
+                          - checkbox [ref=e1246]
+                        - columnheader [ref=e1247]
+                        - columnheader "Type caret-right" [ref=e1248]:
+                          - generic [ref=e1249]:
+                            - generic [ref=e1250]:
+                              - generic [ref=e1251]: Type
+                              - button [ref=e1253]:
+                                - img [ref=e1254]
+                            - img "caret-right" [ref=e1258]
+                        - columnheader "Name" [ref=e1260]:
+                          - generic [ref=e1262]:
+                            - generic [ref=e1263]: Name
+                            - button [ref=e1265]:
+                              - img [ref=e1266]
+                        - columnheader "Content" [ref=e1269]:
+                          - generic [ref=e1271]:
+                            - generic [ref=e1272]: Content
+                            - button [ref=e1274]:
+                              - img [ref=e1275]
+                        - columnheader "Proxy status" [ref=e1278]:
+                          - generic [ref=e1280]:
+                            - generic [ref=e1281]: Proxy status
+                            - button [ref=e1283]:
+                              - img [ref=e1284]
+                        - columnheader "TTL" [ref=e1287]:
+                          - generic [ref=e1289]:
+                            - generic [ref=e1290]: TTL
+                            - button [ref=e1292]:
+                              - img [ref=e1293]
+                        - columnheader "Actions" [ref=e1296]
+                    - rowgroup [ref=e1297]:
+                      - row "Warning A Name Content Proxied Auto Delete" [ref=e1298]:
+                        - cell [ref=e1299]:
+                          - checkbox [ref=e1300]
+                        - cell "Warning" [ref=e1301]:
+                          - button "Warning" [ref=e1302]:
+                            - img [ref=e1303]
+                        - cell "A" [ref=e1306]:
+                          - generic "A - modified a few seconds ago" [ref=e1308]: A
+                        - cell "Name" [ref=e1309]:
+                          - textbox "Name" [ref=e1310]: "*"
+                        - cell "Content" [ref=e1311]:
+                          - textbox "Content" [ref=e1313]: 185.53.179.128
+                        - cell "Proxied" [ref=e1314]:
+                          - generic [ref=e1315]:
+                            - checkbox [checked] [ref=e1317]
+                            - paragraph [ref=e1323]: Proxied
+                        - cell "Auto" [ref=e1324]:
+                          - generic [ref=e1328]: Auto
+                        - cell "Delete" [ref=e1329]:
+                          - button "Delete" [ref=e1331]
+                      - row "Warning A Name Content Proxied Auto Delete" [ref=e1332]:
+                        - cell [ref=e1333]:
+                          - checkbox [ref=e1334]
+                        - cell "Warning" [ref=e1335]:
+                          - button "Warning" [ref=e1336]:
+                            - img [ref=e1337]
+                        - cell "A" [ref=e1340]:
+                          - generic "A - modified a few seconds ago" [ref=e1342]: A
+                        - cell "Name" [ref=e1343]:
+                          - textbox "Name" [ref=e1344]: axiomengine.co
+                        - cell "Content" [ref=e1345]:
+                          - textbox "Content" [ref=e1347]: 185.53.179.128
+                        - cell "Proxied" [ref=e1348]:
+                          - generic [ref=e1349]:
+                            - checkbox [checked] [ref=e1351]
+                            - paragraph [ref=e1357]: Proxied
+                        - cell "Auto" [ref=e1358]:
+                          - generic [ref=e1362]: Auto
+                        - cell "Delete" [ref=e1363]:
+                          - button "Delete" [ref=e1365]
+                      - row "Warning A Name Content Proxied Auto Delete" [ref=e1366]:
+                        - cell [ref=e1367]:
+                          - checkbox [ref=e1368]
+                        - cell "Warning" [ref=e1369]:
+                          - button "Warning" [ref=e1370]:
+                            - img [ref=e1371]
+                        - cell "A" [ref=e1374]:
+                          - generic "A - modified a few seconds ago" [ref=e1376]: A
+                        - cell "Name" [ref=e1377]:
+                          - textbox "Name" [ref=e1378]: www
+                        - cell "Content" [ref=e1379]:
+                          - textbox "Content" [ref=e1381]: 185.53.179.128
+                        - cell "Proxied" [ref=e1382]:
+                          - generic [ref=e1383]:
+                            - checkbox [checked] [ref=e1385]
+                            - paragraph [ref=e1391]: Proxied
+                        - cell "Auto" [ref=e1392]:
+                          - generic [ref=e1396]: Auto
+                        - cell "Delete" [ref=e1397]:
+                          - button "Delete" [ref=e1399]
+            - button "Continue to activation" [ref=e1400] [cursor=pointer]:
+              - paragraph [ref=e1401]: Continue to activation
+        - contentinfo [ref=e1402]:
+          - list [ref=e1404]:
+            - listitem [ref=e1405]:
+              - link "Support" [ref=e1406] [cursor=pointer]:
+                - /url: https://support.cloudflare.com
+            - listitem [ref=e1407]:
+              - link "System status" [ref=e1408] [cursor=pointer]:
+                - /url: https://www.cloudflarestatus.com
+            - listitem [ref=e1409]:
+              - link "Careers" [ref=e1410] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/careers/
+            - listitem [ref=e1411]:
+              - link "Terms of Use" [ref=e1412] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/website-terms/
+            - listitem [ref=e1413]:
+              - link "Report Security Issues" [ref=e1414] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/disclosure/
+            - listitem [ref=e1415]:
+              - link "Privacy Policy" [ref=e1416] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/privacypolicy/
+            - listitem [ref=e1417]:
+              - button "A blue and white pill with a checkmark and an x, representing privacy choices Cookie Preferences" [ref=e1418] [cursor=pointer]:
+                - img "A blue and white pill with a checkmark and an x, representing privacy choices" [ref=e1419]
+                - text: Cookie Preferences
+            - listitem [ref=e1420]:
+              - generic [ref=e1421]: © 2026 Cloudflare, Inc.
+    - generic [ref=e626]:
+      - generic [ref=e628]:
+        - button "New conversation" [ref=e631] [cursor=pointer]:
+          - generic [ref=e632]: New conversation
+          - img [ref=e633]
+        - generic [ref=e635]:
+          - button "New chat" [ref=e636] [cursor=pointer]:
+            - img [ref=e637]
+          - button "Expand sidebar" [ref=e639] [cursor=pointer]:
+            - img [ref=e640]
+          - button "Close sidebar" [ref=e642] [cursor=pointer]:
+            - img [ref=e643]
+      - generic [ref=e645]:
+        - generic [ref=e646]:
+          - paragraph [ref=e647]: Need more help?
+          - link "Support" [ref=e648] [cursor=pointer]:
+            - /url: /aa78278ceb76f3eb3bc7e39dabbb2012/support
+            - button "Support" [ref=e649]
+        - generic [ref=e651]:
+          - generic [ref=e662]:
+            - heading "Good evening." [level=3] [ref=e663]
+            - paragraph [ref=e664]: What are we doing today?
+          - generic [ref=e665]:
+            - button "Deploy a Worker Help me get started" [ref=e666] [cursor=pointer]:
+              - img [ref=e668]
+              - generic [ref=e670]:
+                - generic [ref=e671]: Deploy a Worker
+                - generic [ref=e672]: Help me get started
+              - img [ref=e674]
+            - button "Transfer a domain Walk me through the process" [ref=e676] [cursor=pointer]:
+              - img [ref=e678]
+              - generic [ref=e680]:
+                - generic [ref=e681]: Transfer a domain
+                - generic [ref=e682]: Walk me through the process
+              - img [ref=e684]
+            - button "Domain settings Show my configuration" [ref=e686] [cursor=pointer]:
+              - img [ref=e688]
+              - generic [ref=e690]:
+                - generic [ref=e691]: Domain settings
+                - generic [ref=e692]: Show my configuration
+              - img [ref=e694]
+            - button "Orange vs Gray Cloud What is the difference?" [ref=e696] [cursor=pointer]:
+              - img [ref=e698]
+              - generic [ref=e700]:
+                - generic [ref=e701]: Orange vs Gray Cloud
+                - generic [ref=e702]: What is the difference?
+              - img [ref=e704]
+            - button "Durable Objects Explain how they work" [ref=e706] [cursor=pointer]:
+              - img [ref=e708]
+              - generic [ref=e710]:
+                - generic [ref=e711]: Durable Objects
+                - generic [ref=e712]: Explain how they work
+              - img [ref=e714]
+        - generic [ref=e716]:
+          - generic [ref=e718]:
+            - paragraph [ref=e719]:
+              - text: Chats are recorded to improve the service and are processed in accordance with our
+              - link "Privacy Policy" [ref=e720] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/privacypolicy/
+              - text: .
+            - button "Close privacy notice" [ref=e721] [cursor=pointer]:
+              - img [ref=e722]
+          - generic [ref=e725]:
+            - textbox "What can we help you with?" [ref=e726]
+            - generic [ref=e727]:
+              - button "Settings" [ref=e729] [cursor=pointer]:
+                - img [ref=e730]
+              - button "Send message" [disabled] [ref=e732]:
+                - img [ref=e733]
+  - generic:
+    - region "Notifications"

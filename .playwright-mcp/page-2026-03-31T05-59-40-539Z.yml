@@ -1,0 +1,715 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link "🔥$7.99 .COM Flash Sale. Use code 799COMFLASH. Ends 3/31 11:59 EST🔥" [ref=e8] [cursor=pointer]:
+        - /url: https://www.dynadot.com/help/question/com-registration-promotion?utm_source=promobar&utm_campaign=799COMFLASH%20MAR%2026&utm_medium=compb&drefid=5354
+      - generic [ref=e9] [cursor=pointer]: 
+    - generic [ref=e10]:
+      - navigation [ref=e11]:
+        - generic [ref=e12]:
+          - link [ref=e14] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]:
+            - list [ref=e17]:
+              - listitem [ref=e18]:
+                - link "Domains " [ref=e19] [cursor=pointer]:
+                  - /url: /domain
+                  - text: Domains
+                  - generic [ref=e20]: 
+              - listitem [ref=e21]:
+                - link "Aftermarket " [ref=e22] [cursor=pointer]:
+                  - /url: /market
+                  - text: Aftermarket
+                  - generic [ref=e23]: 
+              - listitem [ref=e24]:
+                - link "Tools " [ref=e25] [cursor=pointer]:
+                  - /url: /tools
+                  - text: Tools
+                  - generic [ref=e26]: 
+              - listitem [ref=e27]:
+                - link "Resources " [ref=e28] [cursor=pointer]:
+                  - /url: /resources
+                  - text: Resources
+                  - generic [ref=e29]: 
+              - listitem [ref=e30]:
+                - link "Support " [ref=e31] [cursor=pointer]:
+                  - /url: /support
+                  - text: Support
+                  - generic [ref=e32]: 
+            - list [ref=e33]:
+              - listitem [ref=e34]:
+                - img [ref=e38]
+              - listitem [ref=e46]:
+                - link "" [ref=e47] [cursor=pointer]:
+                  - /url: /order/cart
+                  - generic [ref=e48]: 
+              - text: 
+            - text:  
+      - text:                                                             
+      - generic:
+        - generic:
+          - link [ref=e49] [cursor=pointer]:
+            - /url: /
+            - img [ref=e50]
+          - button "" [ref=e52] [cursor=pointer]:
+            - generic [ref=e53]: 
+          - link "" [ref=e54] [cursor=pointer]:
+            - /url: /order/cart
+            - button "" [ref=e55]:
+              - generic [ref=e56]: 
+          - button "X" [ref=e57] [cursor=pointer]:
+            - generic [ref=e58]: X
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - text: My Account
+                - generic [ref=e60]: 
+              - generic:
+                - text: Domains
+                - generic [ref=e62]: 
+              - generic:
+                - text: Aftermarket
+                - generic [ref=e64]: 
+              - generic:
+                - text: Tools
+                - generic [ref=e66]: 
+              - generic:
+                - text: Resources
+                - generic [ref=e68]: 
+              - generic:
+                - text: Support
+                - generic [ref=e70]: 
+              - generic:
+                - generic:
+                  - button "USD ($) " [ref=e71] [cursor=pointer]:
+                    - text: USD ($)
+                    - generic [ref=e73]: 
+                  - list [ref=e74]:
+                    - listitem [ref=e75]:
+                      - link "US Dollar USD ($)" [ref=e76] [cursor=pointer]:
+                        - /url: /account/domain/setting/nameserver.html
+                        - text: US Dollar USD ($)
+                    - listitem [ref=e77]:
+                      - link "Euro EUR (€)" [ref=e78] [cursor=pointer]:
+                        - /url: /change_currency.html?chg_currency=EUR&pg=%2Faccount%2Fdomain%2Fsetting%2Fnameserver.html
+                        - text: Euro EUR (€)
+                    - listitem [ref=e79]:
+                      - link "人民币 CNY (¥)" [ref=e80] [cursor=pointer]:
+                        - /url: /change_currency.html?chg_currency=CNY&pg=%2Faccount%2Fdomain%2Fsetting%2Fnameserver.html
+                        - text: 人民币 CNY (¥)
+                    - listitem [ref=e81]:
+                      - link "Canadian Dollar CAD (C$)" [ref=e82] [cursor=pointer]:
+                        - /url: /change_currency.html?chg_currency=CAD&pg=%2Faccount%2Fdomain%2Fsetting%2Fnameserver.html
+                        - text: Canadian Dollar CAD (C$)
+                    - listitem [ref=e83]:
+                      - link "Pesos Mexicanos MXN (MX$)" [ref=e84] [cursor=pointer]:
+                        - /url: /change_currency.html?chg_currency=MXN&pg=%2Faccount%2Fdomain%2Fsetting%2Fnameserver.html
+                        - text: Pesos Mexicanos MXN (MX$)
+                    - listitem [ref=e85]:
+                      - link "British Pound GBP (£)" [ref=e86] [cursor=pointer]:
+                        - /url: /change_currency.html?chg_currency=GBP&pg=%2Faccount%2Fdomain%2Fsetting%2Fnameserver.html
+                        - text: British Pound GBP (£)
+                    - listitem [ref=e87]:
+                      - link "Real Brasileiro BRL (R$)" [ref=e88] [cursor=pointer]:
+                        - /url: /change_currency.html?chg_currency=BRL&pg=%2Faccount%2Fdomain%2Fsetting%2Fnameserver.html
+                        - text: Real Brasileiro BRL (R$)
+                    - listitem [ref=e89]:
+                      - link "Indian Rupee INR (Rs.)" [ref=e90] [cursor=pointer]:
+                        - /url: /change_currency.html?chg_currency=INR&pg=%2Faccount%2Fdomain%2Fsetting%2Fnameserver.html
+                        - text: Indian Rupee INR (Rs.)
+                    - listitem [ref=e91]:
+                      - link "Indonesian Rupiah IDR (Rp)" [ref=e92] [cursor=pointer]:
+                        - /url: /change_currency.html?chg_currency=IDR&pg=%2Faccount%2Fdomain%2Fsetting%2Fnameserver.html
+                        - text: Indonesian Rupiah IDR (Rp)
+                    - listitem [ref=e93]:
+                      - link "Australian Dollar AUD (AU$)" [ref=e94] [cursor=pointer]:
+                        - /url: /change_currency.html?chg_currency=AUD&pg=%2Faccount%2Fdomain%2Fsetting%2Fnameserver.html
+                        - text: Australian Dollar AUD (AU$)
+            - generic:
+              - generic: Copyright © 2002-2026 Dynadot LLC. All rights reserved.
+          - generic:
+            - generic:
+              - list:
+                - generic [ref=e95]:
+                  - generic:
+                    - generic [ref=e97] [cursor=pointer]: 
+                    - generic [ref=e98] [cursor=pointer]: Return to Main Menu
+                - generic [ref=e99]:
+                  - generic [ref=e100]:
+                    - generic [ref=e101]:
+                      - generic [ref=e103]: Change
+                      - button [ref=e105] [cursor=pointer]
+                    - generic [ref=e106]:
+                      - generic [ref=e107]: daniela Martinez
+                      - generic [ref=e108]: danielamarr2001@gmail.com
+                      - generic [ref=e109]: d_m_2026330173554
+                  - generic [ref=e111]:
+                    - generic [ref=e113]:
+                      - link " Profile" [ref=e115] [cursor=pointer]:
+                        - /url: /user/d_m_2026330173554
+                        - generic [ref=e116]: 
+                        - text: Profile
+                      - link " View Inbox" [ref=e118] [cursor=pointer]:
+                        - /url: /account/message/list.html
+                        - generic [ref=e119]: 
+                        - text: View Inbox
+                    - generic [ref=e120]:
+                      - generic [ref=e121]: "Download the app:"
+                      - link [ref=e123] [cursor=pointer]:
+                        - /url: https://itunes.apple.com/us/app/dynadot/id1209930282?mt=8
+                      - link [ref=e125] [cursor=pointer]:
+                        - /url: https://play.google.com/store/apps/details?id=com.dynadot.search
+                - generic [ref=e128]:
+                  - generic [ref=e129]:
+                    - generic [ref=e130]: 
+                    - text: Notifications
+                  - generic [ref=e131]: 
+                - generic [ref=e132]:
+                  - generic:
+                    - listitem [ref=e133]:
+                      - link " Manage Domains1" [ref=e134] [cursor=pointer]:
+                        - /url: /account/domain/name/list.html
+                        - generic [ref=e135]: 
+                        - text: Manage Domains1
+                    - listitem [ref=e136]:
+                      - link " Account Settings" [ref=e137] [cursor=pointer]:
+                        - /url: /account/info/settings.html
+                        - generic [ref=e138]: 
+                        - text: Account Settings
+                    - listitem [ref=e139]:
+                      - link " Aftermarket Summary" [ref=e140] [cursor=pointer]:
+                        - /url: /account/marketplace/
+                        - generic [ref=e141]: 
+                        - text: Aftermarket Summary
+                    - listitem [ref=e142]:
+                      - link " Security" [ref=e143] [cursor=pointer]:
+                        - /url: /account/info/account_lock.html
+                        - generic [ref=e144]: 
+                        - text: Security
+                    - listitem [ref=e145]:
+                      - link " Add Prepay" [ref=e146] [cursor=pointer]:
+                        - /url: /prepay
+                        - generic [ref=e147]: 
+                        - text: Add Prepay
+                  - listitem [ref=e148] [cursor=pointer]:
+                    - generic [ref=e149]: 
+                    - text: Sign Out
+                  - button "USD ($) " [ref=e151] [cursor=pointer]:
+                    - text: USD ($)
+                    - generic [ref=e153]: 
+          - generic:
+            - generic:
+              - text: 
+              - generic:
+                - link "Summary" [ref=e155] [cursor=pointer]:
+                  - /url: /account/
+                - generic:
+                  - text: My Domains
+                  - generic [ref=e157]: 
+                - link "My Websites" [ref=e159] [cursor=pointer]:
+                  - /url: /account/website_builder/list.html
+                - link "My Logos" [ref=e161] [cursor=pointer]:
+                  - /url: /account/logo_builder/list.html
+                - link "My Emails" [ref=e163] [cursor=pointer]:
+                  - /url: /account/email/list.html
+                - link "My SSL" [ref=e165] [cursor=pointer]:
+                  - /url: /account/ssl/list.html
+                - generic:
+                  - text: My Parking
+                  - generic [ref=e167]: 
+                - generic:
+                  - text: Aftermarket
+                  - generic [ref=e169]: 
+                - generic:
+                  - text: Domain Monitoring
+                  - generic [ref=e171]: 
+                - generic:
+                  - text: Tools
+                  - generic [ref=e173]: 
+                - link "Payments" [ref=e175] [cursor=pointer]:
+                  - /url: /account/payment/list.html
+                - generic:
+                  - text: My Info
+                  - generic [ref=e177]: 
+            - generic:
+              - generic:
+                - generic [ref=e179]: 
+                - text: Back
+              - generic:
+                - generic:
+                  - text: My Domains
+                  - generic [ref=e180]:
+                    - link "Manage Domains" [ref=e182] [cursor=pointer]:
+                      - /url: /account/domain/name/list.html
+                    - link "Forwarding Templates" [ref=e184] [cursor=pointer]:
+                      - /url: /account/domain/setting/forwardTemplate.html
+                    - link "Name Servers" [ref=e186] [cursor=pointer]:
+                      - /url: /account/domain/server/list.html
+                    - link "Contact Records" [ref=e188] [cursor=pointer]:
+                      - /url: /account/domain/contact/list.html
+                    - link "Folders" [ref=e190] [cursor=pointer]:
+                      - /url: /account/domain/folder.html
+                    - link "New Domains" [ref=e192] [cursor=pointer]:
+                      - /url: /account/domain/name/new_domains.html
+                    - link "Inactive Domains" [ref=e194] [cursor=pointer]:
+                      - /url: /account/domain/inactive.html
+                    - link "Transfer Domains" [ref=e196] [cursor=pointer]:
+                      - /url: /account/domain/transfer/domains.html
+                    - link "Open Orders" [ref=e198] [cursor=pointer]:
+                      - /url: /account/domain/pending_orders.html
+                    - link "Domain Defaults" [ref=e200] [cursor=pointer]:
+                      - /url: /account/domain/setting/defaults.html
+                    - link "TLD Settings" [ref=e202] [cursor=pointer]:
+                      - /url: /account/domain/setting/tld-defaults.html
+                    - link "DNSSEC" [ref=e204] [cursor=pointer]:
+                      - /url: /account/domain/dnssec/list.html
+                - generic:
+                  - text: My Parking
+                  - generic [ref=e205]:
+                    - link "Summary" [ref=e207] [cursor=pointer]:
+                      - /url: /account/parking/summary.html
+                    - link "Manage Accounts" [ref=e209] [cursor=pointer]:
+                      - /url: /account/parking/accounts.html
+                    - link "Reports" [ref=e211] [cursor=pointer]:
+                      - /url: /account/parking/reports.html
+                - generic:
+                  - text: Aftermarket
+                  - generic [ref=e212]:
+                    - link "Summary" [ref=e214] [cursor=pointer]:
+                      - /url: /account/marketplace/
+                    - link "Auction Bids" [ref=e216] [cursor=pointer]:
+                      - /url: /account/marketplace/auctions/
+                    - link "Backorder Requests" [ref=e218] [cursor=pointer]:
+                      - /url: /account/marketplace/backorder_request/
+                    - link "My Marketplace Listings" [ref=e220] [cursor=pointer]:
+                      - /url: /account/marketplace/my_marketplace/
+                    - link "My Auction Listings" [ref=e222] [cursor=pointer]:
+                      - /url: /account/marketplace/my_auctions/
+                    - link "Incoming Offers" [ref=e224] [cursor=pointer]:
+                      - /url: /account/marketplace/offer_in.html
+                    - link "Outgoing Offers" [ref=e226] [cursor=pointer]:
+                      - /url: /account/marketplace/offer_out.html
+                    - link "Aftermarket Settings" [ref=e228] [cursor=pointer]:
+                      - /url: /account/marketplace/my_settings/
+                    - link "Brokerage Offers" [ref=e230] [cursor=pointer]:
+                      - /url: /account/marketplace/brokerage_offers.html
+                    - link "Brokerage Sales" [ref=e232] [cursor=pointer]:
+                      - /url: /account/marketplace/brokerage_sales.html
+                    - link "My Store" [ref=e234] [cursor=pointer]:
+                      - /url: /user/d_m_2026330173554
+                - generic:
+                  - text: Domain Monitoring
+                  - generic [ref=e235]:
+                    - link "Watchlist" [ref=e237] [cursor=pointer]:
+                      - /url: /account/watchlist.html
+                    - link "Tracker" [ref=e239] [cursor=pointer]:
+                      - /url: /account/monitoring/tracker.html
+                    - link "Other Registrar" [ref=e241] [cursor=pointer]:
+                      - /url: /account/domain/name/list.html?ot=1
+                - generic:
+                  - text: Tools
+                  - generic [ref=e242]:
+                    - link "Apps" [ref=e244] [cursor=pointer]:
+                      - /url: /account/search/apps.html
+                    - link "API" [ref=e246] [cursor=pointer]:
+                      - /url: /account/domain/setting/api.html
+                    - link "Insta-Reg" [ref=e248] [cursor=pointer]:
+                      - /url: /account/search/instant.html
+                    - link "IPS Reports" [ref=e250] [cursor=pointer]:
+                      - /url: /account/search/ips.html
+                    - link "Ambassador Program" [ref=e252] [cursor=pointer]:
+                      - /url: /account/search/ambassador-program.html
+                - generic:
+                  - text: My Info
+                  - generic [ref=e253]:
+                    - link "Account Settings" [ref=e255] [cursor=pointer]:
+                      - /url: /account/info/settings.html
+                    - link "Security" [ref=e257] [cursor=pointer]:
+                      - /url: /account/info/account_lock.html
+                    - link "Refer-a-Friend" [ref=e259] [cursor=pointer]:
+                      - /url: /account/info/refer_a_friend_log.html
+                    - link "Sub Accounts" [ref=e261] [cursor=pointer]:
+                      - /url: /account/info/sub_accounts.html
+                    - link "Notifications" [ref=e263] [cursor=pointer]:
+                      - /url: /account/info/notifications.html
+                    - link "Account Statements" [ref=e265] [cursor=pointer]:
+                      - /url: /account/info/statement.html
+          - generic:
+            - text: 
+            - generic:
+              - generic:
+                - generic:
+                  - generic [ref=e266]:
+                    - link "Domains":
+                      - /url: /domain
+                      - generic: Domains 
+                    - generic: Find Your Domain
+                  - generic [ref=e267]:
+                    - generic: Search
+                    - link "Domain Search" [ref=e268] [cursor=pointer]:
+                      - /url: /domain/search
+                    - link "AI Domain Search" [ref=e269] [cursor=pointer]:
+                      - /url: /domain/ai-search
+                    - link "Bulk Domain Search" [ref=e270] [cursor=pointer]:
+                      - /url: /domain/bulk-search
+                    - link "IDNs Search" [ref=e271] [cursor=pointer]:
+                      - /url: /domain/idn-search
+                    - link "Advanced Search" [ref=e272] [cursor=pointer]:
+                      - /url: /domain/advanced-search
+                  - generic [ref=e273]:
+                    - generic: Transfer
+                    - link "Domain Transfer" [ref=e274] [cursor=pointer]:
+                      - /url: /domain/transfer
+                    - link "Bulk Domain Transfer" [ref=e275] [cursor=pointer]:
+                      - /url: /domain/bulk-transfer
+                  - generic [ref=e276]:
+                    - generic: TLD
+                    - link "Domain Prices" [ref=e277] [cursor=pointer]:
+                      - /url: /domain/prices
+                    - link "Domain Sales" [ref=e278] [cursor=pointer]:
+                      - /url: /domain/sales
+                  - generic [ref=e279]:
+                    - generic: Tools
+                    - link "Whois Lookup" [ref=e280] [cursor=pointer]:
+                      - /url: /domain/whois
+                    - link "Suggestion Tool" [ref=e281] [cursor=pointer]:
+                      - /url: /domain/suggestion-tool
+                    - link "Grace Deletion" [ref=e282] [cursor=pointer]:
+                      - /url: /domain/grace-deletion
+                    - link "Domain Security" [ref=e283] [cursor=pointer]:
+                      - /url: /domain/security
+                    - link "Domain Management" [ref=e284] [cursor=pointer]:
+                      - /url: /account/domain/name/list.html
+                    - link "API" [ref=e285] [cursor=pointer]:
+                      - /url: /domain/api
+              - generic:
+                - generic:
+                  - generic [ref=e286]:
+                    - link "Aftermarket":
+                      - /url: /market
+                      - generic: Aftermarket 
+                    - generic: Manage Your Portfolio
+                  - generic [ref=e287]:
+                    - generic:
+                      - link:
+                        - /url: https://www.nameclub.com/
+                  - generic [ref=e288]:
+                    - generic: Explore
+                    - link "Aftermarket Search" [ref=e289] [cursor=pointer]:
+                      - /url: /market/search
+                    - link "All Domain Auctions" [ref=e290] [cursor=pointer]:
+                      - /url: /market/all-domain-auctions
+                  - generic [ref=e291]:
+                    - generic: Expired Domains
+                    - link "Expired Auctions" [ref=e292] [cursor=pointer]:
+                      - /url: /market/auction
+                    - link "Registry Auctions" [ref=e293] [cursor=pointer]:
+                      - /url: /market/registry-expired-auction
+                    - link "Last Chance Auctions" [ref=e294] [cursor=pointer]:
+                      - /url: /market/last-chance-auction
+                    - link "Expired Closeout" [ref=e295] [cursor=pointer]:
+                      - /url: /market/expired-closeout
+                  - generic [ref=e296]:
+                    - generic: User Listings
+                    - link "User Listings" [ref=e297] [cursor=pointer]:
+                      - /url: /market/user-listings
+                    - link "User Auctions" [ref=e298] [cursor=pointer]:
+                      - /url: /market/user-auction
+                  - generic [ref=e299]:
+                    - generic: Backorder Tools
+                    - link "Backorder" [ref=e300] [cursor=pointer]:
+                      - /url: /market/backorder
+                    - link "Backorder Auctions" [ref=e301] [cursor=pointer]:
+                      - /url: /market/backorder-auction
+                  - generic [ref=e302]:
+                    - generic: Brokerage Services
+                    - link "Buy Domains" [ref=e303] [cursor=pointer]:
+                      - /url: /market/buy-domains
+                    - link "Sell Domains" [ref=e304] [cursor=pointer]:
+                      - /url: /market/sell-domains
+                    - link "Appraisals" [ref=e305] [cursor=pointer]:
+                      - /url: /domain/appraisal
+              - generic:
+                - generic:
+                  - generic [ref=e306]:
+                    - link "Tools":
+                      - /url: /tools
+                      - generic: Tools 
+                  - generic [ref=e307]:
+                    - link "Website Builder" [ref=e308] [cursor=pointer]:
+                      - /url: /website-builder
+                    - link "Email" [ref=e309] [cursor=pointer]:
+                      - /url: /email
+                    - link "Logo Maker" [ref=e310] [cursor=pointer]:
+                      - /url: /logo-builder
+                    - link "SSL" [ref=e311] [cursor=pointer]:
+                      - /url: /ssl
+                    - link "Security" [ref=e312] [cursor=pointer]:
+                      - /url: /domain/security
+                    - link "Reseller Program" [ref=e313] [cursor=pointer]:
+                      - /url: /domain/reseller-program
+                    - link "Trademark Search" [ref=e314] [cursor=pointer]:
+                      - /url: /free-uspto-trademark-search
+              - generic:
+                - generic:
+                  - generic [ref=e315]:
+                    - link "Resources":
+                      - /url: /resources
+                      - generic: Resources 
+                  - generic [ref=e316]:
+                    - generic: Resources
+                    - link "Dynadot Blog" [ref=e317] [cursor=pointer]:
+                      - /url: /blog
+                    - link "Newsletters" [ref=e318] [cursor=pointer]:
+                      - /url: /market/newsletter
+                  - generic [ref=e319]:
+                    - generic: Payment Methods
+                    - link "Payment Options" [ref=e320] [cursor=pointer]:
+                      - /url: /payment-options
+                    - link "Prepay" [ref=e321] [cursor=pointer]:
+                      - /url: /prepay
+                  - generic [ref=e322]:
+                    - generic: Learning
+                    - link "Domain Name Basics Guide" [ref=e323] [cursor=pointer]:
+                      - /url: /domain/beginners-guide
+                    - link "Domain Investing Guide" [ref=e324] [cursor=pointer]:
+                      - /url: /domain-investing-guide
+                    - link "How to Buy Domains" [ref=e325] [cursor=pointer]:
+                      - /url: /resources/how-to-buy-domains
+                    - link "How to Sell Domains" [ref=e326] [cursor=pointer]:
+                      - /url: /resources/how-to-sell-domains
+                  - generic [ref=e327]:
+                    - generic: Affiliate
+                    - link "General Affiliate Program" [ref=e328] [cursor=pointer]:
+                      - /url: /affiliate
+                  - generic [ref=e329]:
+                    - generic: Reseller
+                    - link "Reseller Program" [ref=e330] [cursor=pointer]:
+                      - /url: /domain/reseller-program
+              - generic:
+                - generic:
+                  - generic [ref=e331]:
+                    - link "Support":
+                      - /url: /support
+                      - generic: Support 
+                  - generic [ref=e332]:
+                    - generic: Help Center
+                    - link "Help Files" [ref=e333] [cursor=pointer]:
+                      - /url: /community/help
+                    - link "Forums" [ref=e334] [cursor=pointer]:
+                      - /url: /community/forums
+                    - link "Account Manager Request" [ref=e335] [cursor=pointer]:
+                      - /url: /community/account-manager
+                  - generic [ref=e336]:
+                    - generic: Support Tools
+                    - link "Contact Us" [ref=e337] [cursor=pointer]:
+                      - /url: /community/contact
+                    - link "Support Tickets" [ref=e338] [cursor=pointer]:
+                      - /url: /account/ticket/open.html
+                    - link "Report Abuse" [ref=e339] [cursor=pointer]:
+                      - /url: /report-abuse
+                    - link "Report Bugs" [ref=e340] [cursor=pointer]:
+                      - /url: /account/feedback/report_bugs/view.html
+                    - link "Feature Requests" [ref=e341] [cursor=pointer]:
+                      - /url: /account/feedback/feature_requests/view.html
+  - generic [ref=e342]:
+    - generic [ref=e345]:
+      - generic [ref=e346]:
+        - generic [ref=e348]:
+          - heading "Oops! Page Not Found" [level=1] [ref=e349]
+          - generic [ref=e350]: The page you are looking for is not available. But don't worry, we can help you find what you need!
+          - generic [ref=e351]:
+            - generic [ref=e352]: 
+            - link "Back to home" [ref=e353] [cursor=pointer]:
+              - /url: /
+        - generic [ref=e356]:
+          - textbox "Search for a domain" [ref=e357]
+          - button "" [ref=e358] [cursor=pointer]:
+            - generic [ref=e359]: 
+      - generic [ref=e360]:
+        - generic [ref=e361]:
+          - generic [ref=e362]:
+            - heading "Looking for our services?" [level=2] [ref=e363]
+            - generic [ref=e364]:
+              - generic [ref=e365]:
+                - generic [ref=e366] [cursor=pointer]:
+                  - heading "Domains" [level=3] [ref=e368]
+                  - generic [ref=e369]: Search, register & manage domain names.
+                - generic [ref=e370] [cursor=pointer]:
+                  - heading "Marketplace" [level=3] [ref=e372]
+                  - generic [ref=e373]: Buy & sell domains, auctions & backorders.
+              - generic [ref=e374]:
+                - generic [ref=e375] [cursor=pointer]:
+                  - heading "Tools" [level=3] [ref=e377]
+                  - generic [ref=e378]: Domain search, DNS settings & site builders.
+                - generic [ref=e379] [cursor=pointer]:
+                  - heading "Resources" [level=3] [ref=e381]
+                  - generic [ref=e382]: Guides, tutorials & domain info.
+                - generic [ref=e383] [cursor=pointer]:
+                  - heading "Support" [level=3] [ref=e385]
+                  - generic [ref=e386]: 24/7 help, FAQs & contact options.
+          - generic [ref=e387]:
+            - heading "Get free tools with your domain:" [level=2] [ref=e388]
+            - generic [ref=e389]:
+              - generic [ref=e391] [cursor=pointer]:
+                - heading "Build your website" [level=3] [ref=e392]
+                - generic [ref=e393]: 
+              - generic [ref=e395] [cursor=pointer]:
+                - heading "Setup an email address" [level=3] [ref=e396]
+                - generic [ref=e397]: 
+        - generic [ref=e398]:
+          - generic [ref=e399]: Help Resources
+          - generic [ref=e400]:
+            - generic [ref=e401] [cursor=pointer]:
+              - heading "Contact our team" [level=3] [ref=e402]
+              - generic [ref=e403]: 24/7 chat and email support.
+            - generic [ref=e404] [cursor=pointer]:
+              - heading "Visit our help files" [level=3] [ref=e405]
+              - generic [ref=e406]: Get answers to your domain questions.
+            - generic [ref=e407] [cursor=pointer]:
+              - heading "Visit our blog" [level=3] [ref=e408]
+              - generic [ref=e409]: Learn about domain tips, news, and industry insights.
+    - generic [ref=e410]: 
+    - link " View Cart" [ref=e414] [cursor=pointer]:
+      - /url: /order/cart
+      - generic [ref=e415]: 
+      - text: View Cart
+  - generic [ref=e417]:
+    - generic [ref=e418]:
+      - generic [ref=e419]:
+        - button "USD ($) " [ref=e423] [cursor=pointer]:
+          - generic [ref=e424]: USD ($)
+          - generic [ref=e425]: 
+        - generic [ref=e426]:
+          - link "Dynadot on Facebook" [ref=e427] [cursor=pointer]:
+            - /url: https://www.facebook.com/pages/Dynadot/119239589383
+          - link "Dynadot on Instagram" [ref=e428] [cursor=pointer]:
+            - /url: https://instagram.com/dynadot/
+          - link "Dynadot on LinkedIn" [ref=e429] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/dynadot?trk=fc_badge
+          - link "Dynadot on Twitter" [ref=e430] [cursor=pointer]:
+            - /url: https://www.twitter.com/dynadot
+          - link "Dynadot on YouTube" [ref=e431] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/teamdynadot
+          - link "Dynadot on Reddit" [ref=e432] [cursor=pointer]:
+            - /url: https://www.reddit.com/r/dynadot/
+        - generic [ref=e433]:
+          - generic [ref=e434]: Newsletter sign-up
+          - generic [ref=e435]:
+            - textbox "Enter email" [ref=e436]
+            - button "Submit" [ref=e437] [cursor=pointer]
+        - generic [ref=e438]:
+          - generic [ref=e439]: "Download the app:"
+          - generic [ref=e440]:
+            - link "" [ref=e442] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/dynadot/id1209930282?mt=8
+              - generic [ref=e443]: 
+            - link "" [ref=e445] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.dynadot.search
+              - generic [ref=e446]: 
+      - generic [ref=e447]:
+        - generic [ref=e448]:
+          - generic [ref=e449]: Domains
+          - generic [ref=e450]:
+            - link "Domain Search" [ref=e452] [cursor=pointer]:
+              - /url: /domain/search
+            - link "Transfer" [ref=e454] [cursor=pointer]:
+              - /url: /domain/transfer
+            - link "IDNs Search" [ref=e456] [cursor=pointer]:
+              - /url: /domain/idn-search
+            - link "TLD Prices" [ref=e458] [cursor=pointer]:
+              - /url: /domain/prices
+            - link "Domain Sales" [ref=e460] [cursor=pointer]:
+              - /url: /domain/sales
+            - link "Resellers" [ref=e462] [cursor=pointer]:
+              - /url: /domain/reseller-program
+            - link "Websites" [ref=e464] [cursor=pointer]:
+              - /url: /website-builder
+            - link "Email" [ref=e466] [cursor=pointer]:
+              - /url: /email
+            - link "SSL" [ref=e468] [cursor=pointer]:
+              - /url: /ssl
+            - link "Domain Suggestion Tool" [ref=e470] [cursor=pointer]:
+              - /url: /domain/suggestion-tool
+            - link "Security" [ref=e472] [cursor=pointer]:
+              - /url: /domain/security
+            - link "Grace Deletion" [ref=e474] [cursor=pointer]:
+              - /url: /domain/grace-deletion
+            - link "API" [ref=e476] [cursor=pointer]:
+              - /url: /domain/api
+            - link "Whois Lookup" [ref=e478] [cursor=pointer]:
+              - /url: /domain/whois
+            - link "Payment Plan" [ref=e480] [cursor=pointer]:
+              - /url: /payment-plan
+        - generic [ref=e481]:
+          - generic [ref=e482]: Aftermarket
+          - generic [ref=e483]:
+            - link "Aftermarket Search" [ref=e485] [cursor=pointer]:
+              - /url: /market/search
+            - link "Market Overview" [ref=e487] [cursor=pointer]:
+              - /url: /market
+            - link "User Listings" [ref=e489] [cursor=pointer]:
+              - /url: /market/user-listings
+            - link "Backorders" [ref=e491] [cursor=pointer]:
+              - /url: /market/backorder
+            - link "Expired Auctions" [ref=e493] [cursor=pointer]:
+              - /url: /market/auction
+            - link "User Auctions" [ref=e495] [cursor=pointer]:
+              - /url: /market/user-auction
+            - link "Backorder Auctions" [ref=e497] [cursor=pointer]:
+              - /url: /market/backorder-auction
+            - link "Last Chance Auctions" [ref=e499] [cursor=pointer]:
+              - /url: /market/last-chance-auction
+            - link "Expired Closeout" [ref=e501] [cursor=pointer]:
+              - /url: /market/expired-closeout
+            - link "NameClub Beta" [ref=e503] [cursor=pointer]:
+              - /url: https://www.nameclub.com/
+        - generic [ref=e504]:
+          - generic [ref=e505]: Support
+          - generic [ref=e506]:
+            - link "Blog" [ref=e508] [cursor=pointer]:
+              - /url: /blog
+            - link "Help Files" [ref=e510] [cursor=pointer]:
+              - /url: /community/help
+            - link "Forums" [ref=e512] [cursor=pointer]:
+              - /url: /community/forums
+            - link "Buying Domains" [ref=e514] [cursor=pointer]:
+              - /url: /market/buy-domains
+            - link "Selling Domains" [ref=e516] [cursor=pointer]:
+              - /url: /market/sell-domains
+            - link "Newsletter" [ref=e518] [cursor=pointer]:
+              - /url: /market/newsletter
+            - link "Prepay" [ref=e520] [cursor=pointer]:
+              - /url: /prepay
+            - link "Payment Options" [ref=e522] [cursor=pointer]:
+              - /url: /payment-options
+            - link "Report Abuse" [ref=e524] [cursor=pointer]:
+              - /url: /report-abuse
+        - generic [ref=e525]:
+          - generic [ref=e526]: Dynadot
+          - generic [ref=e527]:
+            - link "About" [ref=e529] [cursor=pointer]:
+              - /url: /community/about-us
+            - link "Contact" [ref=e531] [cursor=pointer]:
+              - /url: /community/contact
+            - link "Events" [ref=e533] [cursor=pointer]:
+              - /url: /community/events
+            - link "Site Map" [ref=e535] [cursor=pointer]:
+              - /url: /sitemap
+            - link "APP" [ref=e537] [cursor=pointer]:
+              - /url: /domain/dynadot-app
+            - link "Refer-a-friend" [ref=e539] [cursor=pointer]:
+              - /url: /community/refer-a-friend
+            - link "Affiliate" [ref=e541] [cursor=pointer]:
+              - /url: /affiliate
+    - generic [ref=e542]:
+      - generic [ref=e543]: Copyright © 2002-2026 Dynadot Inc. All rights reserved.
+      - link "Privacy Policy" [ref=e545] [cursor=pointer]:
+        - /url: /privacy_policy.html
+      - link "Terms of Use" [ref=e547] [cursor=pointer]:
+        - /url: /terms-of-use
+      - link "Registrant Educational Information" [ref=e549] [cursor=pointer]:
+        - /url: https://www.icann.org/resources/pages/benefits-2013-09-16-en
+      - link "Registrants\u0019 Benefits and Responsibilities" [ref=e551] [cursor=pointer]:
+        - /url: https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#registrant

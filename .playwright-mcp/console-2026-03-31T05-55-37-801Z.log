@@ -1,0 +1,7 @@
+[   18620ms] TypeError: Cannot read properties of undefined (reading 'length')
+    at HTMLAnchorElement.<anonymous> (https://www.dynadot.com/account/script/cp.domain.name.listV2.js:1720:25)
+    at HTMLDivElement.dispatch (https://www.dynadot.com/tc/jquery-3.6.3.min.js:2:43336)
+    at y.handle (https://www.dynadot.com/tc/jquery-3.6.3.min.js:2:41320)
+    at eval (eval at evaluate (:302:30), <anonymous>:4:24)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
