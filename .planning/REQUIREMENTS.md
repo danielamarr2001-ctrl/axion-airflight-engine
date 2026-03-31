@@ -53,12 +53,12 @@ Requirements for investor demo release. Each maps to roadmap phases.
 
 ### Backend API
 
-- [ ] **API-01**: POST /api/lookup endpoint accepts PNR + last name and returns structured reservation
-- [ ] **API-02**: POST /api/evaluate endpoint runs rule engine against a reservation and returns decision with options
-- [ ] **API-03**: POST /api/select endpoint records operator's flight selection as a decision
-- [ ] **API-04**: GET /api/decisions endpoint returns decision history with pagination
-- [ ] **API-05**: GET /api/metrics endpoint returns aggregated KPI data for dashboard
-- [ ] **API-06**: Existing /rules CRUD endpoints preserved and enhanced with database storage
+- [x] **API-01**: POST /api/lookup endpoint accepts PNR + last name and returns structured reservation
+- [x] **API-02**: POST /api/evaluate endpoint runs rule engine against a reservation and returns decision with options
+- [x] **API-03**: POST /api/select endpoint records operator's flight selection as a decision
+- [x] **API-04**: GET /api/decisions endpoint returns decision history with pagination
+- [x] **API-05**: GET /api/metrics endpoint returns aggregated KPI data for dashboard
+- [x] **API-06**: Existing /rules CRUD endpoints preserved and enhanced with database storage
 
 ## v2 Requirements
 
@@ -108,12 +108,12 @@ Deferred to future release. Tracked but not in current roadmap.
 | DATA-03 | Phase 1 | Pending |
 | DATA-04 | Phase 1 | Pending |
 | DATA-05 | Phase 1 | Pending |
-| API-01 | Phase 1 | Pending |
-| API-02 | Phase 1 | Pending |
-| API-03 | Phase 1 | Pending |
-| API-04 | Phase 1 | Pending |
-| API-05 | Phase 1 | Pending |
-| API-06 | Phase 1 | Pending |
+| API-01 | Phase 1 | Complete |
+| API-02 | Phase 1 | Complete |
+| API-03 | Phase 1 | Complete |
+| API-04 | Phase 1 | Complete |
+| API-05 | Phase 1 | Complete |
+| API-06 | Phase 1 | Complete |
 | UI-01 | Phase 1 | Complete |
 | UI-02 | Phase 1 | Complete |
 | UI-03 | Phase 1 | Complete |

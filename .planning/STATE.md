@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: executing
-stopped_at: Completed 01-03-PLAN.md (Next.js app shell)
-last_updated: "2026-03-31T02:59:29.325Z"
+stopped_at: Completed 01-02-PLAN.md (Service layer + API routers)
+last_updated: "2026-03-31T03:15:10.030Z"
 last_activity: 2026-03-31
 progress:
   total_phases: 3
   completed_phases: 0
   total_plans: 3
-  completed_plans: 1
+  completed_plans: 2
   percent: 0
 ---
 
@@ -26,7 +26,7 @@ See: .planning/PROJECT.md (updated 2026-03-30)
 ## Current Position
 
 Phase: 1 of 3 (Foundation + Backend + App Shell)
-Plan: 1 of 3 in current phase
+Plan: 2 of 3 in current phase
 Status: Ready to execute
 Last activity: 2026-03-31
 
@@ -53,6 +53,7 @@ Progress: [░░░░░░░░░░] 0%
 
 *Updated after each plan completion*
 | Phase 01 P03 | 8min | 3 tasks | 19 files |
+| Phase 01 P02 | 7min | 2 tasks | 12 files |
 
 ## Accumulated Context
 
@@ -65,6 +66,7 @@ Recent decisions affecting current work:
 - [Roadmap]: UI scaffold (UI-01, UI-02, UI-03, UI-06) placed in Phase 1 as prerequisite for Phase 2 frontend flows
 - [Phase 01]: Manual Next.js scaffold (equivalent to create-next-app) with Tailwind v4 @theme inline CSS variables for AXIOM dark theme
 - [Phase 01]: Dark mode forced via className=dark on html + enableSystem=false to prevent white flash
+- [Phase 01]: Used FastAPI TestClient for endpoint verification instead of live server + curl
 
 ### Pending Todos
 
@@ -76,6 +78,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-31T02:59:29.323Z
-Stopped at: Completed 01-03-PLAN.md (Next.js app shell)
+Last session: 2026-03-31T03:15:10.028Z
+Stopped at: Completed 01-02-PLAN.md (Service layer + API routers)
 Resume file: None
