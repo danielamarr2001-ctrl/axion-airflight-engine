@@ -46,5 +46,4 @@ axiom/logs/decision_log.json
 axiom/rule_platform/rules.csv
 
 # Flutter (deprecated - replaced by axiom-ui)
-axiom_dashboard/build/
-axiom_dashboard/.flutter-plugins-dependencies
+axiom_dashboard/
