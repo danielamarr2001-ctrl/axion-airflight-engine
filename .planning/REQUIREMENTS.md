@@ -43,12 +43,12 @@ Requirements for investor demo release. Each maps to roadmap phases.
 
 ### Frontend & Brand
 
-- [ ] **UI-01**: Application uses Next.js with React and TypeScript
-- [ ] **UI-02**: Dark theme matching AXIOM brand guidelines (dark background, teal accents ~#2ABFBF)
-- [ ] **UI-03**: Navigation shell with sidebar or top navigation between Processor, Rules, and Metrics views
+- [x] **UI-01**: Application uses Next.js with React and TypeScript
+- [x] **UI-02**: Dark theme matching AXIOM brand guidelines (dark background, teal accents ~#2ABFBF)
+- [x] **UI-03**: Navigation shell with sidebar or top navigation between Processor, Rules, and Metrics views
 - [ ] **UI-04**: Loading states with skeleton screens for all API calls
 - [ ] **UI-05**: Graceful error states for invalid PNR, no results, and API errors
-- [ ] **UI-06**: Desktop-first responsive layout optimized for large screens
+- [x] **UI-06**: Desktop-first responsive layout optimized for large screens
 - [ ] **UI-07**: Professional investor-demo quality polish matching brand guidelines
 
 ### Backend API
@@ -114,10 +114,10 @@ Deferred to future release. Tracked but not in current roadmap.
 | API-04 | Phase 1 | Pending |
 | API-05 | Phase 1 | Pending |
 | API-06 | Phase 1 | Pending |
-| UI-01 | Phase 1 | Pending |
-| UI-02 | Phase 1 | Pending |
-| UI-03 | Phase 1 | Pending |
-| UI-06 | Phase 1 | Pending |
+| UI-01 | Phase 1 | Complete |
+| UI-02 | Phase 1 | Complete |
+| UI-03 | Phase 1 | Complete |
+| UI-06 | Phase 1 | Complete |
 | PNR-01 | Phase 2 | Pending |
 | PNR-02 | Phase 2 | Pending |
 | PNR-03 | Phase 2 | Pending |

@@ -33,7 +33,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 Plans:
 - [ ] 01-01-PLAN.md — SQLAlchemy database schema, ORM models, Pydantic schemas, and seed data with realistic airline demo data
 - [ ] 01-02-PLAN.md — Six new API endpoints (lookup, evaluate, select, decisions, metrics, rules) with service layer
-- [ ] 01-03-PLAN.md — Next.js scaffold with AXIOM dark theme, sidebar navigation, and desktop layout
+- [x] 01-03-PLAN.md — Next.js scaffold with AXIOM dark theme, sidebar navigation, and desktop layout
 **UI hint**: yes
 
 ### Phase 2: Core Workflow
