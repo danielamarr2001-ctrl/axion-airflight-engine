@@ -44,6 +44,12 @@ axiom-ui/node_modules/
 # MCP config (contains token references)
 .mcp.json
 
+# Playwright MCP screenshots/logs
+.playwright-mcp/
+
+# Serena MCP
+.serena/
+
 # Old legacy artifacts
 axiom/logs/decision_log.json
 axiom/rule_platform/rules.csv

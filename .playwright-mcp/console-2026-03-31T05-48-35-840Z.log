@@ -1,4 +1,0 @@
-[     974ms] Uncaught TypeError: a[c] is not a function
-    at <anonymous> (https://www.clarity.ms/tag/vqnmvzb3vk:0:29)
-    at <anonymous> (https://www.clarity.ms/tag/vqnmvzb3vk:0:370)
-[    9013ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.dynadot.com/es/account/set_info.html:0
