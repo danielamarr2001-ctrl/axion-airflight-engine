@@ -1,14 +1,8 @@
 {
-  "builds": [
+  "rewrites": [
     {
-      "src": "axiom/api/main.py",
-      "use": "@vercel/python"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "axiom/api/main.py"
+      "source": "/(.*)",
+      "destination": "/api"
     }
   ]
 }
