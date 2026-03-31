@@ -28,12 +28,12 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. POST /api/lookup returns a structured reservation when given a valid PNR + last name from seed data
   4. POST /api/evaluate returns a decision with rule trace and reprotection options for a reservation
   5. GET /api/metrics returns aggregated KPI data computed from pre-seeded historical decisions
-**Plans**: TBD
+**Plans**: 3 plans
 
 Plans:
-- [ ] 01-01: Database schema, models, and seed data
-- [ ] 01-02: Backend API endpoints (lookup, evaluate, select, decisions, metrics)
-- [ ] 01-03: Next.js scaffold with dark theme, navigation shell, and desktop layout
+- [ ] 01-01-PLAN.md — SQLAlchemy database schema, ORM models, Pydantic schemas, and seed data with realistic airline demo data
+- [ ] 01-02-PLAN.md — Six new API endpoints (lookup, evaluate, select, decisions, metrics, rules) with service layer
+- [ ] 01-03-PLAN.md — Next.js scaffold with AXIOM dark theme, sidebar navigation, and desktop layout
 **UI hint**: yes
 
 ### Phase 2: Core Workflow
