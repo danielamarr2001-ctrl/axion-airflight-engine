@@ -61,11 +61,11 @@ Plans:
   1. Dashboard displays automation rate, average processing time, decisions-per-day trend chart, and top triggered rules bar chart
   2. KPI metrics visibly update after a new decision is recorded through the core workflow
   3. Entire application has consistent investor-demo quality polish: smooth transitions, no layout jank, no broken states, brand-aligned typography and spacing
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 03-01: KPI dashboard with charts and live-updating metrics
-- [ ] 03-02: Brand polish pass and demo scenario validation
+- [ ] 03-01-PLAN.md — KPI dashboard with stat cards, decisions trend area chart, top rules bar chart, and 30s auto-refresh via useQuery
+- [ ] 03-02-PLAN.md — Brand polish pass: typography consistency, animation uniformity, hover states, rules page live data, visual verification
 **UI hint**: yes
 
 ## Progress
