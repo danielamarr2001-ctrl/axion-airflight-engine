@@ -54,7 +54,7 @@ export default function MetricsPage() {
       {data && data.total_decisions > 0 && (
         <>
           {/* Stat cards row */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 animate-in fade-in duration-200">
             <StatCard
               title="Total Decisions"
               value={data.total_decisions}
@@ -89,13 +89,13 @@ export default function MetricsPage() {
           </div>
 
           {/* Charts grid */}
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 animate-in fade-in duration-200">
             <DecisionsTrendChart data={data.decisions_by_day} />
             <TopRulesChart data={data.top_rules} />
           </div>
 
           {/* Status distribution */}
-          <Card>
+          <Card className="animate-in fade-in duration-200">
             <CardHeader>
               <CardTitle className="text-base">Status Distribution</CardTitle>
             </CardHeader>
@@ -104,7 +104,7 @@ export default function MetricsPage() {
                 <div className="space-y-1">
                   <p className="text-xs text-muted-foreground">Approved</p>
                   <p
-                    className="text-2xl font-bold"
+                    className="text-2xl font-semibold"
                     style={{ color: "var(--color-chart-1)" }}
                   >
                     {data.decisions_by_status.APPROVED}
@@ -113,7 +113,7 @@ export default function MetricsPage() {
                 <div className="space-y-1">
                   <p className="text-xs text-muted-foreground">Escalated</p>
                   <p
-                    className="text-2xl font-bold"
+                    className="text-2xl font-semibold"
                     style={{ color: "var(--color-chart-4)" }}
                   >
                     {data.decisions_by_status.ESCALATED}
@@ -121,7 +121,7 @@ export default function MetricsPage() {
                 </div>
                 <div className="space-y-1">
                   <p className="text-xs text-muted-foreground">Rejected</p>
-                  <p className="text-2xl font-bold text-destructive">
+                  <p className="text-2xl font-semibold text-destructive">
                     {data.decisions_by_status.REJECTED}
                   </p>
                 </div>

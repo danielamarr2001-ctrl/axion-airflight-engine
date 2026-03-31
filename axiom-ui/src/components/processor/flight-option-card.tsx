@@ -35,7 +35,7 @@ export function FlightOptionCard({ option, selected, onSelect, disabled }: Fligh
 
   return (
     <Card
-      className={`p-4 transition-colors duration-150 hover:border-muted-foreground ${
+      className={`p-4 transition-colors duration-150 hover:border-primary/50 ${
         selected ? "ring-2 ring-primary" : ""
       }`}
     >

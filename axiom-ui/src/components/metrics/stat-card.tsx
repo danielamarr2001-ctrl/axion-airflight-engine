@@ -25,7 +25,7 @@ export function StatCard({
         <Icon className="h-4 w-4 text-muted-foreground" />
       </CardHeader>
       <CardContent>
-        <div className="text-2xl font-bold">
+        <div className="text-2xl font-semibold">
           {value}
           {unit && (
             <span className="text-lg font-normal text-muted-foreground ml-1">
