@@ -64,7 +64,7 @@ Plans:
 **Plans**: 2 plans
 
 Plans:
-- [ ] 03-01-PLAN.md — KPI dashboard with stat cards, decisions trend area chart, top rules bar chart, and 30s auto-refresh via useQuery
+- [x] 03-01-PLAN.md — KPI dashboard with stat cards, decisions trend area chart, top rules bar chart, and 30s auto-refresh via useQuery
 - [ ] 03-02-PLAN.md — Brand polish pass: typography consistency, animation uniformity, hover states, rules page live data, visual verification
 **UI hint**: yes
 
@@ -77,4 +77,4 @@ Phases execute in numeric order: 1 → 2 → 3
 |-------|----------------|--------|-----------|
 | 1. Foundation + Backend + App Shell | 3/3 | Complete | 2026-03-30 |
 | 2. Core Workflow | 2/2 | Complete | 2026-03-30 |
-| 3. KPI Dashboard + Demo Polish | 0/2 | Not started | - |
+| 3. KPI Dashboard + Demo Polish | 1/2 | In Progress|  |

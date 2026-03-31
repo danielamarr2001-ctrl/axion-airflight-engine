@@ -35,11 +35,11 @@ Requirements for investor demo release. Each maps to roadmap phases.
 
 ### KPI Dashboard
 
-- [ ] **KPI-01**: Dashboard shows automation rate (% decisions auto-approved vs escalated to human review)
-- [ ] **KPI-02**: Dashboard shows average processing time from PNR input to decision
-- [ ] **KPI-03**: Dashboard shows decisions-per-day trend chart (last 14 days)
-- [ ] **KPI-04**: Dashboard shows top triggered rules as bar chart
-- [ ] **KPI-05**: All KPI metrics update after new decisions are recorded
+- [x] **KPI-01**: Dashboard shows automation rate (% decisions auto-approved vs escalated to human review)
+- [x] **KPI-02**: Dashboard shows average processing time from PNR input to decision
+- [x] **KPI-03**: Dashboard shows decisions-per-day trend chart (last 14 days)
+- [x] **KPI-04**: Dashboard shows top triggered rules as bar chart
+- [x] **KPI-05**: All KPI metrics update after new decisions are recorded
 
 ### Frontend & Brand
 
@@ -132,11 +132,11 @@ Deferred to future release. Tracked but not in current roadmap.
 | DEC-07 | Phase 2 | Pending |
 | UI-04 | Phase 2 | Complete |
 | UI-05 | Phase 2 | Complete |
-| KPI-01 | Phase 3 | Pending |
-| KPI-02 | Phase 3 | Pending |
-| KPI-03 | Phase 3 | Pending |
-| KPI-04 | Phase 3 | Pending |
-| KPI-05 | Phase 3 | Pending |
+| KPI-01 | Phase 3 | Complete |
+| KPI-02 | Phase 3 | Complete |
+| KPI-03 | Phase 3 | Complete |
+| KPI-04 | Phase 3 | Complete |
+| KPI-05 | Phase 3 | Complete |
 | UI-07 | Phase 3 | Pending |
 
 **Coverage:**
