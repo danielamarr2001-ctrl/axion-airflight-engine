@@ -49,7 +49,7 @@ Requirements for investor demo release. Each maps to roadmap phases.
 - [x] **UI-04**: Loading states with skeleton screens for all API calls
 - [x] **UI-05**: Graceful error states for invalid PNR, no results, and API errors
 - [x] **UI-06**: Desktop-first responsive layout optimized for large screens
-- [ ] **UI-07**: Professional investor-demo quality polish matching brand guidelines
+- [x] **UI-07**: Professional investor-demo quality polish matching brand guidelines
 
 ### Backend API
 
@@ -137,7 +137,7 @@ Deferred to future release. Tracked but not in current roadmap.
 | KPI-03 | Phase 3 | Complete |
 | KPI-04 | Phase 3 | Complete |
 | KPI-05 | Phase 3 | Complete |
-| UI-07 | Phase 3 | Pending |
+| UI-07 | Phase 3 | Complete |
 
 **Coverage:**
 - v1 requirements: 35 total

@@ -65,7 +65,7 @@ Plans:
 
 Plans:
 - [x] 03-01-PLAN.md — KPI dashboard with stat cards, decisions trend area chart, top rules bar chart, and 30s auto-refresh via useQuery
-- [ ] 03-02-PLAN.md — Brand polish pass: typography consistency, animation uniformity, hover states, rules page live data, visual verification
+- [x] 03-02-PLAN.md — Brand polish pass: typography consistency, animation uniformity, hover states, rules page live data, visual verification
 **UI hint**: yes
 
 ## Progress
