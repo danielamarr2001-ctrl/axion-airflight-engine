@@ -1,3 +1,5 @@
+import type { Reservation, EvaluateResponse, SelectResponse } from "./types";
+
 const API_BASE = "/api";
 
 export async function apiFetch<T>(
@@ -19,4 +21,29 @@ export async function apiFetch<T>(
   }
 
   return res.json();
+}
+
+export function lookupReservation(pnr: string, lastName: string) {
+  return apiFetch<Reservation>("/lookup", {
+    method: "POST",
+    body: JSON.stringify({ pnr, last_name: lastName }),
+  });
+}
+
+export function evaluateReservation(pnr: string, reservationId: number) {
+  return apiFetch<EvaluateResponse>("/evaluate", {
+    method: "POST",
+    body: JSON.stringify({ pnr, reservation_id: reservationId }),
+  });
+}
+
+export function selectOption(decisionId: number, selectedOption: string, operatorNotes: string) {
+  return apiFetch<SelectResponse>("/select", {
+    method: "POST",
+    body: JSON.stringify({
+      decision_id: decisionId,
+      selected_option: selectedOption,
+      operator_notes: operatorNotes,
+    }),
+  });
 }

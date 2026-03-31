@@ -96,14 +96,14 @@ def evaluate_reservation(db: Session, reservation: Reservation) -> tuple:
         if rule_result.get("allow_reprotection"):
             status = "APPROVED"
             rule_applied = rule_result.get("rule_applied", "involuntary_change")
-            justification = rule_result.get("justification", "Approved for automatic reprotection")
+            justification = "Flight cancelled, same airline, same route, no sensitive SSR, same fare class. Approved for automatic reprotection."
         else:
             status = "REJECTED"
             rule_applied = rule_result.get("rule_applied", "involuntary_change")
             justification = rule_result.get("justification", "Reprotection conditions not met")
 
         for t in rule_result.get("trace", []):
-            trace_items.append(RuleTraceItem(step="RULE_CHECK", result="PASS" if "True" in str(t) or "APROBADO" in str(t) else "INFO", detail=str(t)))
+            trace_items.append(RuleTraceItem(step="RULE_CHECK", result="PASS" if "True" in str(t) else "INFO", detail=str(t)))
 
         trace_items.append(RuleTraceItem(
             step="RULE_EVALUATION",
