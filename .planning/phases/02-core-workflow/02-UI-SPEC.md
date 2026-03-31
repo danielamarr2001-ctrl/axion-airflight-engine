@@ -69,9 +69,11 @@ Exceptions:
 | Role | Size | Weight | Line Height | Usage |
 |------|------|--------|-------------|-------|
 | Body | 14px | 400 (regular) | 1.5 | Table cells, descriptions, trace details |
-| Label | 12px | 500 (medium) | 1.4 | Form labels, column headers, badge text, metadata |
+| Label | 12px | 400 (regular) | 1.4 | Form labels, column headers, badge text, metadata |
 | Heading | 20px | 600 (semibold) | 1.2 | Section titles ("Reservation", "Rule Evaluation", "Reprotection Options") |
-| Page Title | 24px | 700 (bold) | 1.2 | Page heading ("Processor"), matches existing page.tsx pattern |
+| Page Title | 24px | 600 (semibold) | 1.2 | Page heading ("Processor"), matches existing page.tsx pattern |
+
+Only two weights are used: 400 (regular) for body and label text, 600 (semibold) for headings, page title, and CTAs. No other weights are permitted.
 
 Font stack: `Inter, system-ui, -apple-system, sans-serif` (via `--font-sans` CSS variable, already configured in layout.tsx).
 
@@ -96,7 +98,7 @@ The teal accent (`--color-primary`, oklch(0.72 0.15 185)) is used ONLY on:
 
 1. "Look Up" primary CTA button (solid fill)
 2. "Select Flight" primary CTA button (solid fill)
-3. "Confirm" button in selection dialog (solid fill)
+3. "Confirm Selection" button in selection dialog (solid fill)
 4. APPROVED status badge (text color on muted background)
 5. Active/selected flight option card border (1px ring)
 6. Rule trace "PASS" step indicator icon
@@ -117,6 +119,18 @@ Everything else uses foreground, muted-foreground, secondary, or border tokens. 
 | CONFIRMED | oklch(0.7 0.15 145 / 0.15) | --color-chart-3 | oklch(0.7 0.15 145 / 0.3) |
 
 Badge pattern: 15% opacity background + full-color text + 30% opacity border. Consistent across all status values. Applied via a shared `status-badge` variant in the Badge component.
+
+### Availability Seat Indicator Colors
+
+Seat availability on flight option cards uses existing chart and destructive tokens, not raw green/yellow/red:
+
+| Availability Level | Token | oklch Value | Rendering |
+|--------------------|-------|-------------|-----------|
+| High (> 20 seats) | --color-chart-3 | oklch(0.7 0.15 145) | 15% opacity background, full-color text |
+| Medium (5-20 seats) | --color-chart-4 | oklch(0.7 0.15 55) | 15% opacity background, full-color text |
+| Low (< 5 seats) | --color-destructive | oklch(0.55 0.2 25) | 15% opacity background, full-color text |
+
+Applied as an inline badge on the "X seats available" text within each flight option card. Pattern mirrors the status badge approach: `bg-[token/0.15] text-[token]`.
 
 ---
 
@@ -220,7 +234,7 @@ Minimum supported width: 1280px (per PITFALLS.md: projector-safe at 1280x720).
 
 | Column | Source Field | Format | Width |
 |--------|------------|--------|-------|
-| Flight | `flight_number` | "AV123" format, font-mono, bold | 80px |
+| Flight | `flight_number` | "AV123" format, font-mono, semibold (600) | 80px |
 | Route | `origin` + `destination` | "BOG -> MDE" with arrow, font-mono | 120px |
 | Date | `departure_date` | "15 Apr 2026" format (dd MMM yyyy) | 100px |
 | Departure | `departure_time` | "08:30" 24h format, font-mono | 70px |
@@ -256,9 +270,9 @@ The CANCELLED segment row gets a subtle destructive background tint: `oklch(0.55
 Each trace step is a row with:
 - **Left:** 16px circle indicator (teal fill for PASS, destructive fill for FAIL, chart-4 fill for WARN)
 - **Vertical connector line** between steps (2px, border color, dashed)
-- **Step label:** `trace[].step` value, 14px body weight
+- **Step label:** `trace[].step` value, 14px regular (400)
 - **Result badge:** `trace[].result` as small badge (PASS/FAIL/WARN)
-- **Detail:** `trace[].detail` in muted-foreground, 12px label size
+- **Detail:** `trace[].detail` in muted-foreground, 12px regular (400)
 
 ### 4. Decision Panel
 
@@ -283,7 +297,7 @@ Each trace step is a row with:
 ```
 
 **Decision status display:**
-- Status badge is oversized: 32px text, semibold, centered, full-width within card
+- Status badge is oversized: 24px text (Page Title size), semibold (600), centered, full-width within card, with extra padding (24px vertical) for visual prominence
 - Uses semantic status color scheme (see Color section)
 - When APPROVED: shows "Reprotection Approved" with checkmark icon
 - When REJECTED: shows "Reprotection Rejected" with X icon, justification explains why
@@ -320,12 +334,12 @@ Each trace step is a row with:
 
 | Field | Source | Format |
 |-------|--------|--------|
-| Flight number | `flight_number` | "AV125", font-mono, 16px semibold |
+| Flight number | `flight_number` | "AV125", font-mono, 16px semibold (600) |
 | Route | `origin` + `destination` | "BOG -> MDE", font-mono |
 | Date | `departure_date` | "15 Apr 2026" |
 | Time window | `departure_time` + `arrival_time` | "10:30 - 11:45", font-mono |
 | Aircraft | `aircraft_type` | "A320" or omit if null |
-| Availability | `available_seats` | "42 seats available" -- green tint if > 20, yellow if 5-20, red if < 5 |
+| Availability | `available_seats` | "42 seats available" -- uses availability seat indicator colors: `--color-chart-3` bg at 15% + text if > 20, `--color-chart-4` bg at 15% + text if 5-20, `--color-destructive` bg at 15% + text if < 5 |
 | Fare class | `fare_class` | "Class Y" |
 | CTA | button | "Select Flight" -- accent button, full width at bottom of card |
 
@@ -354,7 +368,7 @@ Card grid: `grid grid-cols-3 gap-md` for 3 options, `grid-cols-2 lg:grid-cols-4`
 | Operator Notes (optional):                    |
 | [____________________________________]        |
 |                                               |
-| [Cancel]                   [Confirm Selection]|
+| [Back to Options]          [Confirm Selection]|
 +-----------------------------------------------+
 ```
 
@@ -365,12 +379,12 @@ Card grid: `grid grid-cols-3 gap-md` for 3 options, `grid-cols-2 lg:grid-cols-4`
 | From line | Original cancelled flight details, font-mono, with CANCELLED badge |
 | To line | Selected replacement flight details, font-mono |
 | Notes field | shadcn Input, optional, placeholder: "Optional notes for audit trail" |
-| Cancel button | shadcn Button (outline variant), label: "Cancel" |
+| Cancel button | shadcn Button (outline variant), label: "Back to Options" |
 | Confirm button | shadcn Button (default variant), label: "Confirm Selection", accent background |
 
 **Behavior:**
-- Cancel closes dialog, returns to options view with no card selected.
-- Confirm sends POST /api/select, button shows spinner + "Recording decision..."
+- "Back to Options" closes dialog, returns to options view with no card selected.
+- "Confirm Selection" sends POST /api/select, button shows spinner + "Recording decision..."
 - On success: dialog closes, audit trail section appears/updates.
 - On error: inline alert within dialog, buttons re-enabled.
 
@@ -403,9 +417,9 @@ Card grid: `grid grid-cols-3 gap-md` for 3 options, `grid-cols-2 lg:grid-cols-4`
 ```
 
 Each entry is a vertical timeline item with:
-- Timestamp: font-mono, 12px label size, muted-foreground
-- Title: 14px body, semibold
-- Details: 12px label, muted-foreground, indented 24px from timeline marker
+- Timestamp: font-mono, 12px regular (400), muted-foreground
+- Title: 14px, semibold (600)
+- Details: 12px regular (400), muted-foreground, indented 24px from timeline marker
 - Timeline marker: 8px filled circle + 2px vertical line connector
 
 ---
@@ -444,7 +458,7 @@ DECISION_ESCALATED
 
 CONFIRMING
   -> (operator confirms) SELECTION_LOADING
-  -> (operator cancels)  DECISION_APPROVED
+  -> (operator clicks Back to Options)  DECISION_APPROVED
 
 SELECTION_LOADING
   -> (API success) DECISION_RECORDED
@@ -452,7 +466,7 @@ SELECTION_LOADING
 
 SELECTION_ERROR
   -> (retry) SELECTION_LOADING
-  -> (cancel) DECISION_APPROVED
+  -> (Back to Options) DECISION_APPROVED
 
 DECISION_RECORDED
   (terminal -- audit trail visible, operator can start new lookup)
@@ -570,7 +584,7 @@ All user-facing text for Phase 2 components.
 | Dialog to label | "To:" |
 | Notes field label | "Operator Notes" |
 | Notes field placeholder | "Optional notes for audit trail" |
-| Dialog cancel | "Cancel" |
+| Dialog cancel | "Back to Options" |
 | Dialog confirm | "Confirm Selection" |
 | Dialog loading | "Recording decision..." |
 | Audit trail heading | "Audit Trail" |
