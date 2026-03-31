@@ -1,4 +1,4 @@
-import type { Reservation, EvaluateResponse, SelectResponse } from "./types";
+import type { Reservation, EvaluateResponse, SelectResponse, MetricsResponse } from "./types";
 
 const API_BASE = "/api";
 
@@ -46,4 +46,8 @@ export function selectOption(decisionId: number, selectedOption: string, operato
       operator_notes: operatorNotes,
     }),
   });
+}
+
+export function fetchMetrics() {
+  return apiFetch<MetricsResponse>("/metrics");
 }

@@ -104,3 +104,29 @@ export type ProcessorAction =
   | { type: "CONFIRM_SUCCESS"; confirmation: SelectResponse }
   | { type: "CONFIRM_ERROR"; error: string }
   | { type: "RESET" };
+
+export interface DailyDecisions {
+  date: string; // ISO date "2026-04-01"
+  count: number;
+  approved: number;
+  escalated: number;
+  rejected: number;
+}
+
+export interface RuleCount {
+  rule: string; // e.g. "involuntary_change"
+  count: number;
+}
+
+export interface MetricsResponse {
+  total_decisions: number;
+  automation_rate: number; // 0-100 percentage
+  avg_processing_time_ms: number;
+  decisions_by_day: DailyDecisions[];
+  top_rules: RuleCount[];
+  decisions_by_status: {
+    APPROVED: number;
+    REJECTED: number;
+    ESCALATED: number;
+  };
+}
