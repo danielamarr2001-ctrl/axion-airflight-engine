@@ -46,11 +46,11 @@ Plans:
   3. After lookup, operator sees a rule evaluation trace showing each rule that fired, its result, and the overall decision (APPROVED / REJECTED / ESCALATED)
   4. When decision is APPROVED, operator sees 2-5 reprotection flight options with flight number, time, availability, and fare impact, and can select one
   5. After selection, the decision is recorded and the decision panel shows the complete audit trail with timestamp, justification, and selected option
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 02-01: PNR lookup flow (form, reservation display, error states)
-- [ ] 02-02: Decision engine flow (rule evaluation UI, options, selection, decision panel)
+- [ ] 02-01-PLAN.md — PNR lookup flow: shadcn components, types, translations, state machine, form, reservation display, skeletons, error states
+- [ ] 02-02-PLAN.md — Decision engine flow: rule trace, decision panel, flight option cards, confirmation dialog, audit trail, full page wiring
 **UI hint**: yes
 
 ### Phase 3: KPI Dashboard + Demo Polish
