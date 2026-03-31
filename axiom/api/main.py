@@ -10,7 +10,9 @@ from axiom.rule_platform.rule_engine_db import compute_metrics
 from axiom.rule_platform.rule_models import RuleCreate, RuleRecord, RuleUpdate
 from axiom.rule_platform.rule_repository import RuleRepository
 
-from axiom.db.engine import init_db
+import os
+from axiom.db.engine import init_db, SessionLocal
+from axiom.db.models import Reservation
 from axiom.api.routers import lookup, evaluate, select, decisions, metrics, rules_api
 
 app = FastAPI(
@@ -30,8 +32,15 @@ app.add_middleware(
 core = DecisionCore()
 rule_repository = RuleRepository()
 
-# Initialize database tables (creates if not exist)
+# Initialize database tables and seed if empty (serverless cold start)
 init_db()
+_db = SessionLocal()
+if _db.query(Reservation).count() == 0:
+    _db.close()
+    from axiom.db.seed import seed_database
+    seed_database()
+else:
+    _db.close()
 
 
 @app.get("/health")
