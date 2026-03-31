@@ -49,7 +49,7 @@ Plans:
 **Plans**: 2 plans
 
 Plans:
-- [ ] 02-01-PLAN.md — PNR lookup flow: shadcn components, types, translations, state machine, form, reservation display, skeletons, error states
+- [x] 02-01-PLAN.md — PNR lookup flow: shadcn components, types, translations, state machine, form, reservation display, skeletons, error states
 - [ ] 02-02-PLAN.md — Decision engine flow: rule trace, decision panel, flight option cards, confirmation dialog, audit trail, full page wiring
 **UI hint**: yes
 

@@ -17,11 +17,11 @@ Requirements for investor demo release. Each maps to roadmap phases.
 
 ### PNR Lookup
 
-- [ ] **PNR-01**: Operator can enter PNR code and passenger last name in a structured form
-- [ ] **PNR-02**: System retrieves and displays full reservation after successful lookup
-- [ ] **PNR-03**: Reservation display shows all passengers with names, ticket numbers, and fare class
-- [ ] **PNR-04**: Reservation display shows all flight segments with dates, routes, times, and status
-- [ ] **PNR-05**: System shows clear error state when PNR + last name combination is not found
+- [x] **PNR-01**: Operator can enter PNR code and passenger last name in a structured form
+- [x] **PNR-02**: System retrieves and displays full reservation after successful lookup
+- [x] **PNR-03**: Reservation display shows all passengers with names, ticket numbers, and fare class
+- [x] **PNR-04**: Reservation display shows all flight segments with dates, routes, times, and status
+- [x] **PNR-05**: System shows clear error state when PNR + last name combination is not found
 
 ### Decision Engine
 
@@ -46,8 +46,8 @@ Requirements for investor demo release. Each maps to roadmap phases.
 - [x] **UI-01**: Application uses Next.js with React and TypeScript
 - [x] **UI-02**: Dark theme matching AXIOM brand guidelines (dark background, teal accents ~#2ABFBF)
 - [x] **UI-03**: Navigation shell with sidebar or top navigation between Processor, Rules, and Metrics views
-- [ ] **UI-04**: Loading states with skeleton screens for all API calls
-- [ ] **UI-05**: Graceful error states for invalid PNR, no results, and API errors
+- [x] **UI-04**: Loading states with skeleton screens for all API calls
+- [x] **UI-05**: Graceful error states for invalid PNR, no results, and API errors
 - [x] **UI-06**: Desktop-first responsive layout optimized for large screens
 - [ ] **UI-07**: Professional investor-demo quality polish matching brand guidelines
 
@@ -118,11 +118,11 @@ Deferred to future release. Tracked but not in current roadmap.
 | UI-02 | Phase 1 | Complete |
 | UI-03 | Phase 1 | Complete |
 | UI-06 | Phase 1 | Complete |
-| PNR-01 | Phase 2 | Pending |
-| PNR-02 | Phase 2 | Pending |
-| PNR-03 | Phase 2 | Pending |
-| PNR-04 | Phase 2 | Pending |
-| PNR-05 | Phase 2 | Pending |
+| PNR-01 | Phase 2 | Complete |
+| PNR-02 | Phase 2 | Complete |
+| PNR-03 | Phase 2 | Complete |
+| PNR-04 | Phase 2 | Complete |
+| PNR-05 | Phase 2 | Complete |
 | DEC-01 | Phase 2 | Pending |
 | DEC-02 | Phase 2 | Pending |
 | DEC-03 | Phase 2 | Pending |
@@ -130,8 +130,8 @@ Deferred to future release. Tracked but not in current roadmap.
 | DEC-05 | Phase 2 | Pending |
 | DEC-06 | Phase 2 | Pending |
 | DEC-07 | Phase 2 | Pending |
-| UI-04 | Phase 2 | Pending |
-| UI-05 | Phase 2 | Pending |
+| UI-04 | Phase 2 | Complete |
+| UI-05 | Phase 2 | Complete |
 | KPI-01 | Phase 3 | Pending |
 | KPI-02 | Phase 3 | Pending |
 | KPI-03 | Phase 3 | Pending |
